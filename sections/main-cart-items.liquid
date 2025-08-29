@@ -103,7 +103,7 @@
                       {%- endif -%}
 
                       <a href="{{ item.url }}" class="cart-item__name h4 break">{{ item.product.title | escape }}</a>
-
+                      {%- render 'product-entries-minicard', product: item.product, quantity: item.quantity, variant: item.variant, item_key: item.key -%}
                       {%- if item.original_price != item.final_price -%}
                         <div class="cart-item__discounted-prices">
                           <span class="visually-hidden">
@@ -434,6 +434,47 @@
               </tbody>
             </table>
           {%- endif -%}
+        </div>
+      </div>
+
+    {%- assign global_multiplier = shop.metafields.sharedsweeps.global_multiplier | default: 1 -%}
+      {%- assign cart_price = cart.total_price | divided_by: 100 -%}
+      {%- assign total_entries = cart_price | times: global_multiplier | round -%}
+
+      <style>
+        .cart-drawer__entries-banner {
+          border: 2px solid #413215;
+          background-color: #f9f6f1;
+          margin-top: 14px;
+          padding: 10px 14px;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          font-family: 'Cinzel', serif;
+          box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+        }
+        .cart-drawer__entries-left {
+          font-size: 14px;
+          font-weight: bold;
+          color: #2d1c0f;
+        }
+        .cart-drawer__entries-right {
+          background-color: #413215;
+          color: #fff;
+          padding: 4px 12px;
+          font-weight: bold;
+          font-size: 16px;
+          border-radius: 4px;
+          letter-spacing: 1px;
+        }
+      </style>
+
+      <div class="cart-drawer__entries-banner">
+        <div class="cart-drawer__entries-left">
+          🎟️ Total Entries
+        </div>
+        <div class="cart-drawer__entries-right">
+          <span id="cart-total-entries">{{ total_entries }}</span>
         </div>
       </div>
 
