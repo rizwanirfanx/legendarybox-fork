@@ -10,11 +10,13 @@
   {%- assign mult = product_mult -%}
 {%- endif -%}
 
-<div class="ss-entries-wrap" style="--ss-accent: {{ accent | default: '#103948' }};">
-  <div class="ss-entries-badge"
-       data-base-price="{{ base_price }}"
-       data-mult="{{ mult }}"
-       data-item-key="{{ item_key | default: '' }}">
+<div class="ss-entries-wrap test-1" style="--ss-accent: {{ accent | default: '#103948' }};">
+  <div
+    class="ss-entries-badge"
+    data-base-price="{{ base_price }}"
+    data-mult="{{ mult }}"
+    data-item-key="{{ item_key | default: '' }}"
+  >
     <span class="ss-entries-badge__text">
       Earn <span class="ss-entries-value">{{ base_price | times: mult | times: quantity | floor }}</span> Entries
     </span>
@@ -23,147 +25,187 @@
 </div>
 
 <script>
-(function(){
-  const MAX_RETRIES = 8;
-  const RETRY_DELAY = 120;
+  (function () {
+    const MAX_RETRIES = 8;
+    const RETRY_DELAY = 120;
 
-  function parseMoneyString(str) {
-    if (!str) return 0;
-    str = String(str).replace(/\u00A0/g,'').trim();
-    let cleaned = str.replace(/[^\d,.\-]/g,'');
-    if (!cleaned) return 0;
-    if (cleaned.indexOf('.') !== -1 && cleaned.indexOf(',') !== -1) {
-      cleaned = cleaned.replace(/,/g,'');
-    } else if (cleaned.indexOf(',') !== -1 && cleaned.indexOf('.') === -1) {
-      cleaned = cleaned.replace(/,/g,'.');
-    }
-    cleaned = cleaned.replace(/[^0-9.\-]/g,'');
-    const n = parseFloat(cleaned);
-    return isNaN(n) ? 0 : n;
-  }
-
-  function findLineSubtotal(cartItem) {
-    if (!cartItem) return 0;
-    const selectors = [
-      '.cart-item__totals.right .price',
-      '.cart-item__totals.right .price.price--end',
-      '.cart-item__price-wrapper .price.price--end',
-      '.cart-item__discounted-prices .price.price--end',
-      '.cart-item__totals.right',
-      '.price.price--end'
-    ];
-    for (const sel of selectors) {
-      const el = cartItem.querySelector(sel);
-      if (el && el.textContent && el.textContent.trim() !== '') {
-        const val = parseMoneyString(el.textContent);
-        if (val > 0) return val;
+    function parseMoneyString(str) {
+      if (!str) return 0;
+      str = String(str)
+        .replace(/\u00A0/g, '')
+        .trim();
+      let cleaned = str.replace(/[^\d,.\-]/g, '');
+      if (!cleaned) return 0;
+      if (cleaned.indexOf('.') !== -1 && cleaned.indexOf(',') !== -1) {
+        cleaned = cleaned.replace(/,/g, '');
+      } else if (cleaned.indexOf(',') !== -1 && cleaned.indexOf('.') === -1) {
+        cleaned = cleaned.replace(/,/g, '.');
       }
-    }
-    // fallback: try entire cartItem text
-    const txt = cartItem.textContent || '';
-    const fallbackVal = parseMoneyString(txt);
-    return fallbackVal || 0;
-  }
-
-  function getQuantityFromCartItem(cartItem) {
-    if (!cartItem) return 1;
-    const input = cartItem.querySelector('input.quantity__input');
-    if (input) {
-      const v = parseInt(input.value, 10);
-      if (!isNaN(v) && v > 0) return v;
-      const dataCartQty = input.dataset && input.dataset.cartQuantity;
-      const dv = dataCartQty ? parseInt(dataCartQty, 10) : NaN;
-      if (!isNaN(dv) && dv > 0) return dv;
-      // fallback to input.getAttribute('value')
-      const attrVal = parseInt(input.getAttribute('value'), 10);
-      if (!isNaN(attrVal) && attrVal > 0) return attrVal;
-    }
-    return 1;
-  }
-
-  function updateBadgeOnce(badge, retriesLeft) {
-    if (!badge) return;
-    const valueEl = badge.querySelector('.ss-entries-value');
-    if (!valueEl) return;
-
-    const cartItem = badge.closest('.cart-item');
-    if (!cartItem) return;
-
-    const subtotal = findLineSubtotal(cartItem); // line total (not per unit)
-    if ((subtotal === 0 || subtotal === null) && retriesLeft > 0) {
-      setTimeout(() => updateBadgeOnce(badge, retriesLeft - 1), RETRY_DELAY);
-      return;
+      cleaned = cleaned.replace(/[^0-9.\-]/g, '');
+      const n = parseFloat(cleaned);
+      return isNaN(n) ? 0 : n;
     }
 
-    const mult = parseFloat(badge.dataset.mult) || 1;
-    // entries = floor(lineSubtotal * mult)
-    const entries = Math.floor(subtotal * mult);
-    valueEl.textContent = String(entries);
-  }
+    function findLineSubtotal(cartItem) {
+      if (!cartItem) return 0;
+      const selectors = [
+        '.cart-item__totals.right .price',
+        '.cart-item__totals.right .price.price--end',
+        '.cart-item__price-wrapper .price.price--end',
+        '.cart-item__discounted-prices .price.price--end',
+        '.cart-item__totals.right',
+        '.price.price--end',
+      ];
+      for (const sel of selectors) {
+        const el = cartItem.querySelector(sel);
+        if (el && el.textContent && el.textContent.trim() !== '') {
+          const val = parseMoneyString(el.textContent);
+          if (val > 0) return val;
+        }
+      }
+      // fallback: try entire cartItem text
+      const txt = cartItem.textContent || '';
+      const fallbackVal = parseMoneyString(txt);
+      return fallbackVal || 0;
+    }
 
-  function refreshAllBadges() {
-    document.querySelectorAll('.ss-entries-badge').forEach(badge => {
-      // start retry chain for each badge independently
-      updateBadgeOnce(badge, MAX_RETRIES);
+    function getQuantityFromCartItem(cartItem) {
+      if (!cartItem) return 1;
+      const input = cartItem.querySelector('input.quantity__input');
+      if (input) {
+        const v = parseInt(input.value, 10);
+        if (!isNaN(v) && v > 0) return v;
+        const dataCartQty = input.dataset && input.dataset.cartQuantity;
+        const dv = dataCartQty ? parseInt(dataCartQty, 10) : NaN;
+        if (!isNaN(dv) && dv > 0) return dv;
+        // fallback to input.getAttribute('value')
+        const attrVal = parseInt(input.getAttribute('value'), 10);
+        if (!isNaN(attrVal) && attrVal > 0) return attrVal;
+      }
+      return 1;
+    }
+
+    function updateBadgeOnce(badge, retriesLeft) {
+      if (!badge) return;
+      const valueEl = badge.querySelector('.ss-entries-value');
+      if (!valueEl) return;
+
+      const cartItem = badge.closest('.cart-item');
+      if (!cartItem) return;
+
+      const subtotal = findLineSubtotal(cartItem); // line total (not per unit)
+      if ((subtotal === 0 || subtotal === null) && retriesLeft > 0) {
+        setTimeout(() => updateBadgeOnce(badge, retriesLeft - 1), RETRY_DELAY);
+        return;
+      }
+
+      const mult = parseFloat(badge.dataset.mult) || 1;
+      // entries = floor(lineSubtotal * mult)
+      const entries = Math.floor(subtotal * mult);
+      valueEl.textContent = String(entries);
+    }
+
+    function refreshAllBadges() {
+      document.querySelectorAll('.ss-entries-badge').forEach((badge) => {
+        // start retry chain for each badge independently
+        updateBadgeOnce(badge, MAX_RETRIES);
+      });
+    }
+
+    // Debounce helpers to avoid spamming refreshAllBadges
+    let debounceTimer = null;
+    function scheduleRefresh(delay = 80) {
+      if (debounceTimer) clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        refreshAllBadges();
+        debounceTimer = null;
+      }, delay);
+    }
+
+    // delegate input changes
+    document.addEventListener(
+      'input',
+      function (e) {
+        if (e.target && e.target.matches && e.target.matches('input.quantity__input')) {
+          // quantity change happened - Shopify will recalc; wait a bit and then refresh
+          scheduleRefresh(120);
+        }
+      },
+      { passive: true }
+    );
+
+    // clicks on + / - buttons
+    document.addEventListener(
+      'click',
+      function (e) {
+        if (e.target.closest && e.target.closest('.quantity__button')) {
+          scheduleRefresh(160);
+        }
+      },
+      { passive: true }
+    );
+
+    // Listen for Shopify cart custom event (cart.js usually dispatches this)
+    document.addEventListener('cart:updated', function () {
+      scheduleRefresh(80);
     });
-  }
 
-  // Debounce helpers to avoid spamming refreshAllBadges
-  let debounceTimer = null;
-  function scheduleRefresh(delay = 80) {
-    if (debounceTimer) clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(() => { refreshAllBadges(); debounceTimer = null; }, delay);
-  }
+    // If drawer container is present, observe it for replacements (AJAX re-renders)
+    function ensureDrawerObserver() {
+      const drawer =
+        document.querySelector('#CartDrawer') ||
+        document.querySelector('.drawer__contents') ||
+        document.querySelector('.cart-drawer');
+      if (!drawer) return;
 
-  // delegate input changes
-  document.addEventListener('input', function(e){
-    if (e.target && e.target.matches && e.target.matches('input.quantity__input')) {
-      // quantity change happened - Shopify will recalc; wait a bit and then refresh
-      scheduleRefresh(120);
+      if (window.__ss_entries_drawer_observer_initialized) return;
+      window.__ss_entries_drawer_observer_initialized = true;
+
+      const mo = new MutationObserver(function (mutations) {
+        // if nodes added/removed or subtree changed, refresh
+        scheduleRefresh(120);
+      });
+      mo.observe(drawer, { childList: true, subtree: true });
     }
-  }, {passive: true});
 
-  // clicks on + / - buttons
-  document.addEventListener('click', function(e){
-    if (e.target.closest && e.target.closest('.quantity__button')) {
-      scheduleRefresh(160);
-    }
-  }, {passive: true});
-
-  // Listen for Shopify cart custom event (cart.js usually dispatches this)
-  document.addEventListener('cart:updated', function(){
-    scheduleRefresh(80);
-  });
-
-  // If drawer container is present, observe it for replacements (AJAX re-renders)
-  function ensureDrawerObserver() {
-    const drawer = document.querySelector('#CartDrawer') || document.querySelector('.drawer__contents') || document.querySelector('.cart-drawer');
-    if (!drawer) return;
-
-    if (window.__ss_entries_drawer_observer_initialized) return;
-    window.__ss_entries_drawer_observer_initialized = true;
-
-    const mo = new MutationObserver(function(mutations){
-      // if nodes added/removed or subtree changed, refresh
-      scheduleRefresh(120);
+    document.addEventListener('DOMContentLoaded', function () {
+      scheduleRefresh(150);
+      ensureDrawerObserver();
     });
-    mo.observe(drawer, { childList: true, subtree: true });
-  }
 
-  document.addEventListener('DOMContentLoaded', function(){
-    scheduleRefresh(150);
-    ensureDrawerObserver();
-  });
-
-  // Also run immediately in case snippet inserted after DOMContentLoaded
-  scheduleRefresh(200);
-
-})();
+    // Also run immediately in case snippet inserted after DOMContentLoaded
+    scheduleRefresh(200);
+  })();
 </script>
 
 <style>
-.ss-entries-wrap { margin-top: 6px; font-family: 'Cinzel', serif; margin-bottom: 6px; }
-.ss-entries-badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 8px; border-radius: 8px; border: 1px solid var(--ss-accent); background: #f9f5f0; font-weight: 700; font-size: 13px; }
-.ss-entries-value { font-weight: 900; color: var(--ss-accent); margin-left: 4px; }
-.ss-entries-badge__mult { background: #8b5e3c; color: #f3e4d0; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-left: 4px; }
+  .ss-entries-wrap {
+    margin-top: 6px;
+    font-family: 'Cinzel', serif;
+    margin-bottom: 6px;
+  }
+  .ss-entries-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 2px 4px;
+    border-radius: 8px;
+    border: 1px solid var(--ss-accent);
+    background: #f9f5f0;
+    font-weight: 700;
+    font-size: 13px;
+  }
+  .ss-entries-value {
+    font-weight: 900;
+    color: var(--ss-accent);
+    margin-left: 4px;
+  }
+  .ss-entries-badge__mult {
+    background: #8b5e3c;
+    color: #f3e4d0;
+    font-size: 11px;
+    padding: 2px 4px;
+    border-radius: 4px;
+    margin-left: 4px;
+  }
 </style>
