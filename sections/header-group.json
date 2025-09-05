@@ -25,7 +25,7 @@
           "type": "announcement",
           "settings": {
             "text": "Win a $100K Dream Library Makeover — Every Purchase is an Entry",
-            "link": ""
+            "link": "shopify://pages/sweepstakes"
           }
         }
       },
