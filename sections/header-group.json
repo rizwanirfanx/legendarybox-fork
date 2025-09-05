@@ -27,19 +27,11 @@
             "text": "Win a $100K Dream Library Makeover — Every Purchase is an Entry",
             "link": ""
           }
-        },
-        "announcement_R6E7ia": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome to our store",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_qGgnDX",
-        "announcement_R6E7ia"
+        "announcement_qGgnDX"
       ],
       "settings": {
         "color_scheme": "scheme-5",

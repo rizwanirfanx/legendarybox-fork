@@ -186,11 +186,20 @@
             "text": "<p>Every purchase or subscription renewal with Caffeine & Legends between <strong>September 5th and December 2nd, 2025</strong> earns you entries into our <strong>$100K Dream Library Makeover Giveaway </strong>in partnership with Shared Sweeps. ✨📚 One lucky winner will be chosen at random across all participating brands — and if they entered through Caffeine & Legends, they’ll take home our grand prize: a $100,000 Dream Library Glow-Up.<br/><br/></p>",
             "text_style": "body"
           }
+        },
+        "button_qjRhmU": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading_FcmnWz",
-        "text_UVTf3b"
+        "text_UVTf3b",
+        "button_qjRhmU"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
