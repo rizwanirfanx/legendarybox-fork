@@ -86,34 +86,25 @@
         "heading_qJdpY8": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "How the Dream Library Giveaway Works",
             "heading_size": "h1"
           }
         },
         "text_z4NDTW": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Every purchase or subscription renewal with Caffeine & Legends between <strong>September 5th and December 2nd, 2025</strong> earns you entries into our <strong>$100K Dream Library Makeover Giveaway </strong>in partnership with Shared Sweeps. ✨📚 One lucky winner will be chosen at random across all participating brands — and if they entered through Caffeine & Legends, they’ll take home our grand prize: a $100,000 Dream Library Glow-Up.<br/><br/></p>",
             "text_style": "body"
-          }
-        },
-        "button_AD6Ecy": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_qJdpY8",
-        "text_z4NDTW",
-        "button_AD6Ecy"
+        "text_z4NDTW"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Title_1080_x_1080_px.png",
+        "image": "shopify://shop_images/Title_1080_x_1080_px_5.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
