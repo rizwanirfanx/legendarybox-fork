@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -9,9 +18,53 @@
         "columns_desktop": 3,
         "columns_mobile": "2"
       }
+    },
+    "rich_text_dqkh78": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_V6yiym": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_GtpWNm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>NO PURCHASE NECESSARY. Ends 12/2/25. Must be: i) a legal US<br/>resident of the 50 US or DC and age of majority or ii) a legal resident of<br/>Canada (excl. Quebec) and age of majority at time of entry. Subject to<br/>Official Rules available at sharedsweeps.com/rules. Void where prohibited.<br/>Sponsored By Shared Sweeps</p>"
+          }
+        },
+        "button_Dphqkk": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_V6yiym",
+        "text_GtpWNm",
+        "button_Dphqkk"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_dqkh78"
   ]
 }

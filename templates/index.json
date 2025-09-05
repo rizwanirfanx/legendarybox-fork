@@ -1,1 +1,544 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"<strong>Read. Sip. Explore New Worlds.<\/strong>","heading_size":"h1"}},"text_N4yLMU":{"type":"text","settings":{"text":"An adult fantasy book subscription box that pairs epic tales with cozy brews, curated treasures, & exclusive author insights.","text_style":"body"}},"button":{"type":"buttons","settings":{"button_label_1":"SUBSCRIBE NOW","button_link_1":"#plan-selector","button_style_secondary_1":false,"button_label_2":"GIVE AS A GIFT","button_link_2":"#plan-selector","button_style_secondary_2":true}}},"block_order":["heading","text_N4yLMU","button"],"custom_css":[],"settings":{"image":"shopify:\/\/shop_images\/Screen_Shot_2022-07-19_at_9.14.21_AM_a848092a-f682-4960-bfc0-6130df892732.png","image_overlay_opacity":0,"image_height":"adapt","desktop_content_position":"top-left","show_text_box":true,"desktop_content_alignment":"left","color_scheme":"scheme-3","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":true}},"multicolumn_FCTiLG":{"type":"multicolumn","blocks":{"column_fjcAtj":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/A_BOOK_-_Discover_a_mix_of_indie_authors_and_well-known_favorites._Each_book_comes_with_a_signed_bookplate_and_letter_from_the_author_A_DRINK_-_A_delicious_new_coffee_tea_or_drinking_1cc3a1ac-0b06-49f8-9b86-b3dd58c86fc9.png","title":"","text":"","link_label":"","link":""}},"column_JahGh8":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/ezgif-2-e502546d3d.jpg","title":"","text":"","link_label":"","link":""}}},"block_order":["column_fjcAtj","column_JahGh8"],"settings":{"title":"Each Box Includes....","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"left","background_style":"none","button_label":"Subscribe Here","button_link":"#plan-selector","color_scheme":"scheme-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"multicolumn_pz6ctk":{"type":"multicolumn","blocks":{"column_Bei7ry":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Untitled_1080_x_600_px_5.png","title":"Subscribe.","text":"<p>Pick your plan and select your drink preference. Choose coffee, tea, or drinking chocolate to enjoy while you dive into your new read.<\/p>","link_label":"","link":""}},"column_UEwcUG":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Untitled_1080_x_600_px_3.png","title":"Receive.","text":"<p>Boxes ship between the 1st-7th of each month, and feature a book, drink, and extras that are inspired by the book of the month.<\/p>","link_label":"","link":""}},"column_b4M46D":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Untitled_1080_x_600_px_2.png","title":"Explore.","text":"<p>Sip, read, and relax with your new book! Build the perfect library, savor new flavors, and connect with authors like never before.<\/p>","link_label":"","link":""}}},"block_order":["column_Bei7ry","column_UEwcUG","column_b4M46D"],"settings":{"title":"How It Works...","heading_size":"h1","image_width":"half","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"SUBSCRIBE NOW","button_link":"#plan-selector","color_scheme":"scheme-3","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"image_with_text_kk4ijQ":{"type":"image-with-text","blocks":{"heading_pnAak3":{"type":"heading","settings":{"heading":"September Theme: Howl Fire","heading_size":"h1"}},"text_jiwDMA":{"type":"text","settings":{"text":"<p><\/p><p>Subscriptions are currently OPEN for September.<\/p><p>September <em>boxes will ship September<\/em> 1-9th<em>.<\/em><\/p><p>We focus on high quality full size selections of coffee, tea & drinking chocolate paired with your book, plus a fun extra bonus item each month!<\/p><p><\/p><p><strong>As seen on USA Today's 10 Best List<\/strong><\/p><p><\/p>","text_style":"body"}},"button_DRBGtH":{"type":"button","settings":{"button_label":"SUBSCRIBE NOW","button_link":"#plan-selector","button_style_secondary":false}}},"block_order":["heading_pnAak3","text_jiwDMA","button_DRBGtH"],"custom_css":[".image-with-text img {object-fit: contain; width: 100%; height: auto;}"],"settings":{"image":"shopify:\/\/shop_images\/Theme_Ideas_25.png","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","section_color_scheme":"","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"image_with_text_TB6eY3":{"type":"image-with-text","blocks":{"heading_UHVzgg":{"type":"heading","settings":{"heading":"The Pink Envelope - Best Book Subscription","heading_size":"h2"}},"text_Nx7mpc":{"type":"text","settings":{"text":"<p>We're incredibly honored to have been selected for The Pink Envelope's Best Book Subscription list this year! We may be one of the smaller book boxes out there, but we truly love our little bookish community.<\/p>","text_style":"body"}},"button_Q6Pkc7":{"type":"button","settings":{"button_label":"JOIN TODAY","button_link":"#plan-selector","button_style_secondary":false}}},"block_order":["heading_UHVzgg","text_Nx7mpc","button_Q6Pkc7"],"settings":{"image":"shopify:\/\/shop_images\/Screenshot_2024-12-10_at_6.11.37_PM.png","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","section_color_scheme":"scheme-3","color_scheme":"scheme-3","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"custom_liquid_6haXyG":{"type":"custom-liquid","settings":{"custom_liquid":"<div data-fera-widget='testimonial_carousel' data-fera-id='fwid_32faaQ4'><\/div>","color_scheme":"","padding_top":12,"padding_bottom":12}},"custom_liquid_egAAfi":{"type":"custom-liquid","custom_css":[],"settings":{"custom_liquid":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\" \/>\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" \/>\n  <title>Plan Selector<\/title>\n  <style>\n    body {\n      font-family: 'Merriweather', serif;\n      background-color: #f9f9f9;\n      margin: 0;\n      padding: 0;\n      box-sizing: border-box;\n    }\n    \n    .container {\n      max-width: 1000px;\n      margin: 20px auto;\n      background-color: #103948;\n      padding: 20px;\n      border-radius: 10px;\n      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n      text-align: center;\n    }\n    \n    h2 {\n      font-size: 28px;\n      margin-bottom: 30px;\n      color: #fff;\n    }\n    \n    .plan-group {\n      display: flex;\n      justify-content: space-between;\n      flex-wrap: wrap;\n      gap: 20px;\n    }\n    \n    .plan {\n      flex: 1 1 calc(25% - 20px);\n      \/* border: 2px solid #A3F20C; *\/ \/* Border removed using Option 1 *\/\n      border-radius: 10px;\n      padding: 20px;\n      text-align: center;\n      background-color: #fff;\n      transition: transform 0.3s, box-shadow 0.3s;\n      position: relative;\n    }\n    \n    .plan:hover {\n      transform: translateY(-5px);\n      box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);\n    }\n    \n    .plan-title {\n      font-size: 20px;\n      font-weight: bold;\n      color: #e63946;\n      margin-bottom: 10px;\n    }\n    \n    .plan-title span {\n      display: block;\n    }\n    \n    .plan-detail {\n      font-size: 24px;\n      font-weight: bold;\n      color: #333;\n      margin-bottom: 10px;\n    }\n    \n    .plan-detail span {\n      font-size: 16px;\n      color: #666;\n    }\n    \n    .plan-total {\n      font-size: 16px;\n      color: #666;\n      margin-bottom: 10px;\n    }\n    \n    \/* Updated CTA button styling *\/\n    .cta-button {\n      margin-top: 20px;\n      padding: 12px 40px;\n      background-color: #e63946;\n      color: #fff;\n      text-decoration: none;\n      font-size: 18px;\n      font-weight: bold;\n      text-transform: uppercase;\n      letter-spacing: 1px;\n      border-radius: 50px;\n      border: none;\n      display: inline-block;\n      transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;\n      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    }\n    \n    .cta-button:hover {\n      background-color: #c71f1f;\n      transform: translateY(-2px);\n      box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);\n    }\n    \n    @media (max-width: 768px) {\n      .plan {\n        flex: 1 1 calc(50% - 20px);\n      }\n    }\n    \n    @media (max-width: 480px) {\n      .plan {\n        flex: 1 1 100%;\n      }\n    }\n    \n    \/* Bonus text on prepaid plan boxes, now placed under the CTA button *\/\n    .bonus-scoop {\n      font-size: 14px;\n      color: #c71f1f;\n      margin-top: 10px;\n      font-style: italic;\n    }\n    \n    \/* Banner for prepaid subscription bonus info (border and background removed) *\/\n    .prepaid-gift-info {\n      margin-top: 20px;\n      padding: 10px 20px;\n      background-color: transparent;\n      border-radius: 10px;\n      display: flex;\n      flex-direction: column;  \/* Stack text and image vertically *\/\n      align-items: center;     \/* Center items horizontally *\/\n      font-size: 16px;\n      font-weight: bold;\n      color: #A3F20C;\n    }\n    \n    \/* Updated CSS for the coffee scoop image *\/\n    .scoop-thumb {\n      margin-top: 5px;  \/* Reduced spacing between text and image *\/\n      width: 200px;     \/* Increased width for a larger image *\/\n      height: auto;     \/* Maintain aspect ratio *\/\n    }\n    \n    .gift-text {\n      text-align: center;\n    }\n  <\/style>\n<\/head>\n<body>\n  <div id=\"plan-selector\" class=\"container\">\n    <h2>Choose Your Subscription Plan<\/h2>\n    <div class=\"plan-group\">\n      <!-- Monthly Plan (no bonus text) -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">Monthly<span>Plan<\/span><\/div>\n        <div class=\"plan-detail\">$42.99<span>\/mo.<\/span><\/div>\n        <div class=\"plan-total\">+ Shipping<\/div>\n        <a href=\"https:\/\/legendarybox.com\/products\/monthly-subscription-box\" class=\"cta-button\">Join Now<\/a>\n      <\/div>\n      \n      <!-- 3-Month Prepaid (bonus text below CTA button) -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">3-Month<span>Prepaid<\/span><\/div>\n        <div class=\"plan-detail\">$41.99<span>\/box<\/span><\/div>\n        <div class=\"plan-total\">$125.97<span> Total + s\/h<\/span><\/div>\n        <a href=\"https:\/\/legendarybox.com\/products\/3-month-subscription-plan\" class=\"cta-button\">Join Now<\/a>\n        <div class=\"bonus-scoop\">Bonus Coffee Scoop!<\/div>\n      <\/div>\n      \n      <!-- 6-Month Prepaid (bonus text below CTA button) -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">6-Month<span>Prepaid<\/span><\/div>\n        <div class=\"plan-detail\">$39.99<span>\/box<\/span><\/div>\n        <div class=\"plan-total\">$239.94<span> Total + s\/h<\/span><\/div>\n        <a href=\"https:\/\/legendarybox.com\/products\/6-month-subscription-plan\" class=\"cta-button\">Join Now<\/a>\n        <div class=\"bonus-scoop\">Bonus Coffee Scoop!<\/div>\n      <\/div>\n      \n      <!-- 12-Month Prepaid (bonus text below CTA button) -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">12-Month<span>Prepaid<\/span><\/div>\n        <div class=\"plan-detail\">$38.99<span>\/box<\/span><\/div>\n        <div class=\"plan-total\">$467.88<span> Total + s\/h<\/span><\/div>\n        <a href=\"https:\/\/legendarybox.com\/products\/12-month-subscription-plan\" class=\"cta-button\">Join Now<\/a>\n        <div class=\"bonus-scoop\">Bonus Coffee Scoop!<\/div>\n      <\/div>\n    <\/div>\n    \n    <!-- Banner for prepaid subscription bonus info with the new coffee scoop image below the text -->\n    <div class=\"prepaid-gift-info\">\n      <div class=\"gift-text\">\n        New 3, 6, &amp; 12‑month subscribers receive a FREE Caffeine &amp; Legends drink scoop\/clip in their first box!\n      <\/div>\n      <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0305\/4770\/5900\/files\/Untitled_design_54.png?v=1738623166\" alt=\"Coffee Scoop\" class=\"scoop-thumb\" \/>\n    <\/div>\n  <\/div>\n  \n  <script>\n    document.querySelectorAll('a[href^=\"#\"]').forEach(anchor => {\n      anchor.addEventListener('click', function(e) {\n        e.preventDefault();\n        document.querySelector(this.getAttribute('href')).scrollIntoView({\n          behavior: 'smooth'\n        });\n      });\n    });\n  <\/script>\n<\/body>\n<\/html>","color_scheme":"scheme-3","padding_top":0,"padding_bottom":0}},"multicolumn_nEqp3a":{"type":"multicolumn","blocks":{"column_3MkP6k":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Rep_Post_Edits_23.png","title":"<strong>Lightbound<\/strong>","text":"<p>April features David Dalglish's dark fantasy about immortal siblings bound by an ancient oath—until one brother breaks it, bringing divine power to mortal hands. The box showcases Dynamite Coffee's perfectly balanced blend mirroring the story's interplay of light and dark, Gnat and Bee's peach-ginger white tea, and Raaka's decadent Double Dark drinking chocolate. Plus, enjoy Strange Syrup's Sizzling Cinnamon, infused with warming spices that transform everything it touches<br\/><br\/><\/p>","link_label":"","link":""}},"column_YPTMxG":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Rep_Post_Edits_1080_x_1080_px_4.png","title":"<strong>Into The Void<\/strong>","text":"<p>This March, journey into \"Grave Empire\" by Richard Swan, where three argonauts race to decode an end-of-days prophecy. The box showcases Methodical Coffee's versatile Play Nice blend, Little Woods Tea's complex Fireside Elderberry Black, and Moka Origins' ethically sourced 72% Deliciously Dark Drinking Chocolate, plus an upcycled adventure-ready bag from Alchemy Goods crafted from recycled bike tires.<br\/><br\/><\/p>","link_label":"","link":""}},"column_r8wzfR":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Rep_Post_Edits_1080_x_1080_px_1.png","title":"<strong>The Fates<\/strong>","text":"<p>February brings \"Daughter of Chaos,\" where outcast Danae discovers her extraordinary power while navigating a world of mythic beasts and treacherous alliances. This box features eTreehouse Chocolate's decadent 72% drinking chocolate, Brewtus Roasters' bold house blend, and Felicity Loft's classic Alaskan Breakfast Tea. The tea towel reminding us that greatness often emerges from humble beginnings.<br\/><br\/><\/p>","link_label":"","link":""}}},"block_order":["column_3MkP6k","column_YPTMxG","column_r8wzfR"],"settings":{"title":"Prior Boxes","heading_size":"h1","image_width":"full","image_ratio":"portrait","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"Subscribe Now","button_link":"#plan-selector","color_scheme":"scheme-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"173386723287884e9c":{"type":"apps","settings":{"include_margins":true}},"image_with_text_wDz4gn":{"type":"image-with-text","blocks":{"heading_hXFhfU":{"type":"heading","settings":{"heading":"Discover New Reads and Celebrate Authors","heading_size":"h1"}},"text_NnczBm":{"type":"text","settings":{"text":"<p>We collaborate closely with authors to bring their stories to life in a way that's truly legendary. Each book is carefully selected, often featuring signed bookplates and heartfelt letters from the authors themselves, offering a personal touch to your reading experience. Occasionally, you'll find unique bonuses, like an exclusive playlist curated by the author to enhance the story's atmosphere. It's more than a book box - it's a celebration of storytelling and the creative minds behind it.<\/p>","text_style":"body"}},"button_xXWPiR":{"type":"button","settings":{"button_label":"JOIN NOW","button_link":"#plan-selector","button_style_secondary":false}}},"block_order":["heading_hXFhfU","text_NnczBm","button_xXWPiR"],"settings":{"image":"shopify:\/\/shop_images\/Screenshot_2024-12-11_at_10.02.34_AM.png","height":"adapt","desktop_image_width":"small","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","section_color_scheme":"scheme-1","color_scheme":"scheme-3","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"image_with_text_tfmHMD":{"type":"image-with-text","blocks":{"heading_MaKXRn":{"type":"heading","settings":{"heading":"1% for the Planet","heading_size":"h1"}},"text_HeUQUG":{"type":"text","settings":{"text":"<p>1% for the Planet represents a global network of businesses, individuals and nonprofit organizations tackling our planet's most pressing environmental issues.<\/p><p><br\/>We've always made an effort to use eco-friendly packing and support small businesses, especially those with social-good programs. We've decided this year to take it one step further, by committing to donate 1% of our annual revenue to environmental non-profits. <\/p><p><\/p>","text_style":"body"}},"button_k6Ltxf":{"type":"button","settings":{"button_label":"SUBSCRIBE NOW","button_link":"#plan-selector","button_style_secondary":false}}},"block_order":["heading_MaKXRn","text_HeUQUG","button_k6Ltxf"],"settings":{"image":"shopify:\/\/shop_images\/Untitled_design_74.png","height":"adapt","desktop_image_width":"small","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","section_color_scheme":"","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"173386960102aaddce":{"type":"apps","settings":{"include_margins":true}}},"order":["image_banner","multicolumn_FCTiLG","multicolumn_pz6ctk","image_with_text_kk4ijQ","image_with_text_TB6eY3","custom_liquid_6haXyG","custom_liquid_egAAfi","multicolumn_nEqp3a","173386723287884e9c","image_with_text_wDz4gn","image_with_text_tfmHMD","173386960102aaddce"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Read. Sip. Explore New Worlds.</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_N4yLMU": {
+          "type": "text",
+          "settings": {
+            "text": "An adult fantasy book subscription box that pairs epic tales with cozy brews, curated treasures, & exclusive author insights.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SUBSCRIBE NOW",
+            "button_link_1": "#plan-selector",
+            "button_style_secondary_1": false,
+            "button_label_2": "GIVE AS A GIFT",
+            "button_link_2": "#plan-selector",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_N4yLMU",
+        "button"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/Screen_Shot_2022-07-19_at_9.14.21_AM_a848092a-f682-4960-bfc0-6130df892732.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "top-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_FCTiLG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fjcAtj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/9a41b2eb-ca5d-4732-a0e9-36b2d0d4f492.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JahGh8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ezgif-2-e502546d3d.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_fjcAtj",
+        "column_JahGh8"
+      ],
+      "settings": {
+        "title": "Each Box Includes....",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Subscribe Here",
+        "button_link": "#plan-selector",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_pz6ctk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Bei7ry": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_1080_x_600_px_5.png",
+            "title": "Subscribe.",
+            "text": "<p>Pick your plan and select your drink preference. Choose coffee, tea, or drinking chocolate to enjoy while you dive into your new read.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UEwcUG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_1080_x_600_px_3.png",
+            "title": "Receive.",
+            "text": "<p>Boxes ship between the 1st-7th of each month, and feature a book, drink, and extras that are inspired by the book of the month.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_b4M46D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_1080_x_600_px_2.png",
+            "title": "Explore.",
+            "text": "<p>Sip, read, and relax with your new book! Build the perfect library, savor new flavors, and connect with authors like never before.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Bei7ry",
+        "column_UEwcUG",
+        "column_b4M46D"
+      ],
+      "settings": {
+        "title": "How It Works...",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "SUBSCRIBE NOW",
+        "button_link": "#plan-selector",
+        "color_scheme": "scheme-3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_jzYNM8": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FcmnWz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_UVTf3b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_4qUJKA": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FcmnWz",
+        "text_UVTf3b",
+        "button_4qUJKA"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-5",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_3hBtJJ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nGr8Ad": {
+          "type": "heading",
+          "settings": {
+            "heading": "October Theme: Paranormal Pages",
+            "heading_size": "h1"
+          }
+        },
+        "text_G8jrHt": {
+          "type": "text",
+          "settings": {
+            "text": "<p></p><p>Subscriptions are currently OPEN for October.</p><p>October <em>boxes will ship October </em>1-8th<em>.</em></p><p>We focus on high quality full size selections of coffee, tea & drinking chocolate paired with your book, plus a fun extra bonus item each month!</p><p></p><p><strong>As seen on USA Today's 10 Best List</strong></p><p></p>",
+            "text_style": "body"
+          }
+        },
+        "button_dbfGhU": {
+          "type": "button",
+          "settings": {
+            "button_label": "SUBSCRIBE NOW",
+            "button_link": "#plan-selector",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nGr8Ad",
+        "text_G8jrHt",
+        "button_dbfGhU"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Theme_Ideas_30.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_TB6eY3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UHVzgg": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Pink Envelope - Best Book Subscription",
+            "heading_size": "h2"
+          }
+        },
+        "text_Nx7mpc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're incredibly honored to have been selected for The Pink Envelope's Best Book Subscription list this year! We may be one of the smaller book boxes out there, but we truly love our little bookish community.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_Q6Pkc7": {
+          "type": "button",
+          "settings": {
+            "button_label": "JOIN TODAY",
+            "button_link": "#plan-selector",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UHVzgg",
+        "text_Nx7mpc",
+        "button_Q6Pkc7"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-12-10_at_6.11.37_PM.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_6haXyG": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div data-fera-widget='testimonial_carousel' data-fera-id='fwid_32faaQ4'></div>",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "custom_liquid_egAAfi": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <title>Plan Selector</title>\n  <style>\n    body {\n      font-family: 'Merriweather', serif;\n      background-color: #f9f9f9;\n      margin: 0;\n      padding: 0;\n      box-sizing: border-box;\n    }\n    \n    .container {\n      max-width: 1000px;\n      margin: 20px auto;\n      background-color: #103948;\n      padding: 20px;\n      border-radius: 10px;\n      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n      text-align: center;\n    }\n    \n    h2 {\n      font-size: 28px;\n      margin-bottom: 30px;\n      color: #fff;\n    }\n    \n    .plan-group {\n      display: flex;\n      justify-content: space-between;\n      flex-wrap: wrap;\n      gap: 20px;\n    }\n    \n    .plan {\n      flex: 1 1 calc(25% - 20px);\n      /* border: 2px solid #A3F20C; */ /* Border removed using Option 1 */\n      border-radius: 10px;\n      padding: 20px;\n      text-align: center;\n      background-color: #fff;\n      transition: transform 0.3s, box-shadow 0.3s;\n      position: relative;\n    }\n    \n    .plan:hover {\n      transform: translateY(-5px);\n      box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);\n    }\n    \n    .plan-title {\n      font-size: 20px;\n      font-weight: bold;\n      color: #e63946;\n      margin-bottom: 10px;\n    }\n    \n    .plan-title span {\n      display: block;\n    }\n    \n    .plan-detail {\n      font-size: 24px;\n      font-weight: bold;\n      color: #333;\n      margin-bottom: 10px;\n    }\n    \n    .plan-detail span {\n      font-size: 16px;\n      color: #666;\n    }\n    \n    .plan-total {\n      font-size: 16px;\n      color: #666;\n      margin-bottom: 10px;\n    }\n    \n    /* Updated CTA button styling */\n    .cta-button {\n      margin-top: 20px;\n      padding: 12px 40px;\n      background-color: #e63946;\n      color: #fff;\n      text-decoration: none;\n      font-size: 18px;\n      font-weight: bold;\n      text-transform: uppercase;\n      letter-spacing: 1px;\n      border-radius: 50px;\n      border: none;\n      display: inline-block;\n      transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;\n      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    }\n    \n    .cta-button:hover {\n      background-color: #c71f1f;\n      transform: translateY(-2px);\n      box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);\n    }\n    \n    @media (max-width: 768px) {\n      .plan {\n        flex: 1 1 calc(50% - 20px);\n      }\n    }\n    \n    @media (max-width: 480px) {\n      .plan {\n        flex: 1 1 100%;\n      }\n    }\n    \n    /* Bonus text on prepaid plan boxes, now placed under the CTA button */\n    .bonus-scoop {\n      font-size: 14px;\n      color: #c71f1f;\n      margin-top: 10px;\n      font-style: italic;\n    }\n    \n    /* Banner for prepaid subscription bonus info (border and background removed) */\n    .prepaid-gift-info {\n      margin-top: 20px;\n      padding: 10px 20px;\n      background-color: transparent;\n      border-radius: 10px;\n      display: flex;\n      flex-direction: column;  /* Stack text and image vertically */\n      align-items: center;     /* Center items horizontally */\n      font-size: 16px;\n      font-weight: bold;\n      color: #A3F20C;\n    }\n    \n    /* Updated CSS for the coffee scoop image */\n    .scoop-thumb {\n      margin-top: 5px;  /* Reduced spacing between text and image */\n      width: 200px;     /* Increased width for a larger image */\n      height: auto;     /* Maintain aspect ratio */\n    }\n    \n    .gift-text {\n      text-align: center;\n    }\n  </style>\n</head>\n<body>\n  <div id=\"plan-selector\" class=\"container\">\n    <h2>Choose Your Subscription Plan</h2>\n    <div class=\"plan-group\">\n      <!-- Monthly Plan (no bonus text) -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">Monthly<span>Plan</span></div>\n        <div class=\"plan-detail\">$42.99<span>/mo.</span></div>\n        <div class=\"plan-total\">+ Shipping</div>\n        <a href=\"https://legendarybox.com/products/monthly-subscription-box\" class=\"cta-button\">Join Now</a>\n      </div>\n      \n      <!-- 3-Month Prepaid (bonus text below CTA button) -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">3-Month<span>Prepaid</span></div>\n        <div class=\"plan-detail\">$41.99<span>/box</span></div>\n        <div class=\"plan-total\">$125.97<span> Total + s/h</span></div>\n        <a href=\"https://legendarybox.com/products/3-month-subscription-plan\" class=\"cta-button\">Join Now</a>\n        <div class=\"bonus-scoop\">Bonus Coffee Scoop!</div>\n      </div>\n      \n      <!-- 6-Month Prepaid (bonus text below CTA button) -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">6-Month<span>Prepaid</span></div>\n        <div class=\"plan-detail\">$39.99<span>/box</span></div>\n        <div class=\"plan-total\">$239.94<span> Total + s/h</span></div>\n        <a href=\"https://legendarybox.com/products/6-month-subscription-plan\" class=\"cta-button\">Join Now</a>\n        <div class=\"bonus-scoop\">Bonus Coffee Scoop!</div>\n      </div>\n      \n      <!-- 12-Month Prepaid (bonus text below CTA button) -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">12-Month<span>Prepaid</span></div>\n        <div class=\"plan-detail\">$38.99<span>/box</span></div>\n        <div class=\"plan-total\">$467.88<span> Total + s/h</span></div>\n        <a href=\"https://legendarybox.com/products/12-month-subscription-plan\" class=\"cta-button\">Join Now</a>\n        <div class=\"bonus-scoop\">Bonus Coffee Scoop!</div>\n      </div>\n    </div>\n    \n    <!-- Banner for prepaid subscription bonus info with the new coffee scoop image below the text -->\n    <div class=\"prepaid-gift-info\">\n      <div class=\"gift-text\">\n        New 3, 6, &amp; 12‑month subscribers receive a FREE Caffeine &amp; Legends drink scoop/clip in their first box!\n      </div>\n      <img src=\"https://cdn.shopify.com/s/files/1/0305/4770/5900/files/Untitled_design_54.png?v=1738623166\" alt=\"Coffee Scoop\" class=\"scoop-thumb\" />\n    </div>\n  </div>\n  \n  <script>\n    document.querySelectorAll('a[href^=\"#\"]').forEach(anchor => {\n      anchor.addEventListener('click', function(e) {\n        e.preventDefault();\n        document.querySelector(this.getAttribute('href')).scrollIntoView({\n          behavior: 'smooth'\n        });\n      });\n    });\n  </script>\n</body>\n</html>",
+        "color_scheme": "scheme-3",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_nEqp3a": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3MkP6k": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Rep_Post_Edits_23.png",
+            "title": "<strong>Lightbound</strong>",
+            "text": "<p>April features David Dalglish's dark fantasy about immortal siblings bound by an ancient oath—until one brother breaks it, bringing divine power to mortal hands. The box showcases Dynamite Coffee's perfectly balanced blend mirroring the story's interplay of light and dark, Gnat and Bee's peach-ginger white tea, and Raaka's decadent Double Dark drinking chocolate. Plus, enjoy Strange Syrup's Sizzling Cinnamon, infused with warming spices that transform everything it touches<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YPTMxG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Rep_Post_Edits_1080_x_1080_px_4.png",
+            "title": "<strong>Into The Void</strong>",
+            "text": "<p>This March, journey into \"Grave Empire\" by Richard Swan, where three argonauts race to decode an end-of-days prophecy. The box showcases Methodical Coffee's versatile Play Nice blend, Little Woods Tea's complex Fireside Elderberry Black, and Moka Origins' ethically sourced 72% Deliciously Dark Drinking Chocolate, plus an upcycled adventure-ready bag from Alchemy Goods crafted from recycled bike tires.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_r8wzfR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Rep_Post_Edits_1080_x_1080_px_1.png",
+            "title": "<strong>The Fates</strong>",
+            "text": "<p>February brings \"Daughter of Chaos,\" where outcast Danae discovers her extraordinary power while navigating a world of mythic beasts and treacherous alliances. This box features eTreehouse Chocolate's decadent 72% drinking chocolate, Brewtus Roasters' bold house blend, and Felicity Loft's classic Alaskan Breakfast Tea. The tea towel reminding us that greatness often emerges from humble beginnings.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3MkP6k",
+        "column_YPTMxG",
+        "column_r8wzfR"
+      ],
+      "settings": {
+        "title": "Prior Boxes",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Subscribe Now",
+        "button_link": "#plan-selector",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "173386723287884e9c": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "image_with_text_wDz4gn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hXFhfU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover New Reads and Celebrate Authors",
+            "heading_size": "h1"
+          }
+        },
+        "text_NnczBm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We collaborate closely with authors to bring their stories to life in a way that's truly legendary. Each book is carefully selected, often featuring signed bookplates and heartfelt letters from the authors themselves, offering a personal touch to your reading experience. Occasionally, you'll find unique bonuses, like an exclusive playlist curated by the author to enhance the story's atmosphere. It's more than a book box - it's a celebration of storytelling and the creative minds behind it.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_xXWPiR": {
+          "type": "button",
+          "settings": {
+            "button_label": "JOIN NOW",
+            "button_link": "#plan-selector",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hXFhfU",
+        "text_NnczBm",
+        "button_xXWPiR"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-12-11_at_10.02.34_AM.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_tfmHMD": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_MaKXRn": {
+          "type": "heading",
+          "settings": {
+            "heading": "1% for the Planet",
+            "heading_size": "h1"
+          }
+        },
+        "text_HeUQUG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>1% for the Planet represents a global network of businesses, individuals and nonprofit organizations tackling our planet's most pressing environmental issues.</p><p><br/>We've always made an effort to use eco-friendly packing and support small businesses, especially those with social-good programs. We've decided this year to take it one step further, by committing to donate 1% of our annual revenue to environmental non-profits. </p><p></p>",
+            "text_style": "body"
+          }
+        },
+        "button_k6Ltxf": {
+          "type": "button",
+          "settings": {
+            "button_label": "SUBSCRIBE NOW",
+            "button_link": "#plan-selector",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MaKXRn",
+        "text_HeUQUG",
+        "button_k6Ltxf"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Untitled_design_74.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "173386960102aaddce": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "rich_text_LFNMM3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WQpQWA": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_anEdMW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>NO PURCHASE NECESSARY. Ends 12/2/25. Must be: i) a legal US<br/>resident of the 50 US or DC and age of majority or ii) a legal resident of<br/>Canada (excl. Quebec) and age of majority at time of entry. Subject to<br/>Official Rules available at sharedsweeps.com/rules. Void where prohibited.<br/>Sponsored By Shared Sweeps</p>"
+          }
+        },
+        "button_tFjxMW": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_WQpQWA",
+        "text_anEdMW",
+        "button_tFjxMW"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "multicolumn_FCTiLG",
+    "multicolumn_pz6ctk",
+    "image_with_text_jzYNM8",
+    "image_with_text_3hBtJJ",
+    "image_with_text_TB6eY3",
+    "custom_liquid_6haXyG",
+    "custom_liquid_egAAfi",
+    "multicolumn_nEqp3a",
+    "173386723287884e9c",
+    "image_with_text_wDz4gn",
+    "image_with_text_tfmHMD",
+    "173386960102aaddce",
+    "rich_text_LFNMM3"
+  ]
+}
