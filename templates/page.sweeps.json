@@ -24,7 +24,7 @@
         "heading_UzXPgD"
       ],
       "settings": {
-        "image": "shopify://shop_images/Title_15.png",
+        "image": "shopify://shop_images/Title_13.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "bottom-center",
@@ -34,7 +34,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "rich_text_CcQ7xp": {
@@ -43,8 +43,8 @@
         "heading_iyRJtt": {
           "type": "heading",
           "settings": {
-            "heading": "$100,000 Dream Library Sweepstakes",
-            "heading_size": "h1"
+            "heading": "Enter for a chance to win $100,000 to build your dream home library!",
+            "heading_size": "h2"
           }
         },
         "text_LGCqbm": {
