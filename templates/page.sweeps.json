@@ -113,7 +113,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Title_12.png",
+        "image": "shopify://shop_images/Title_1080_x_1080_px.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -229,45 +229,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_mpj7C6": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "sweeps",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "custom_liquid_kC3xxQ": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n  <title>Caffeine and Legends Giveaway FAQs</title>\n  <style>\n    /* Caffeine and Legends Giveaway FAQ styles */\n    :root{\n      --sb-text:#101a2a;\n      --sb-muted:#4a5568;\n      --sb-line:#e2e6ea;\n      --sb-brand:#003366;\n      --sb-bg:#ffffff;\n      --sb-radius:14px;\n    }\n    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:#f5f6f8;color:var(--sb-text)}\n    .sb-wrap{max-width:960px;margin:40px auto;padding:0 16px}\n    .sb-title{font-size:clamp(24px,3vw,32px);font-weight:800;margin:0 0 14px}\n    .sb-sub{color:var(--sb-muted);margin:0 0 24px}\n    .sb-faq{--pad-x:20px;--pad-y:16px}\n    .sb-faq details{background:var(--sb-bg);border:1px solid var(--sb-line);border-radius:var(--sb-radius);margin:12px 0;overflow:hidden;transition:border-color .2s,box-shadow .2s}\n    .sb-faq details:focus-within{border-color:var(--sb-brand);box-shadow:0 0 0 3px rgba(0,51,102,.08)}\n    .sb-faq summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:12px;padding:var(--pad-y) var(--pad-x);font-weight:700;color:var(--sb-text)}\n    .sb-faq summary::-webkit-details-marker{display:none}\n    .sb-faq .sb-icon{margin-left:auto;font-size:22px;line-height:1;color:var(--sb-brand);transition:transform .2s ease}\n    .sb-faq details[open] .sb-icon{transform:rotate(45deg)} /* + turns into × */\n    .sb-faq .sb-a{padding:0 var(--pad-x) calc(var(--pad-y) + 2px);color:var(--sb-muted);line-height:1.6}\n    .sb-faq a{color:var(--sb-brand);text-decoration:underline}\n    @media (prefers-reduced-motion:reduce){\n      .sb-faq details,.sb-faq .sb-icon{transition:none}\n    }\n  </style>\n</head>\n<body>\n  <main class=\"sb-wrap\">\n    <h1 class=\"sb-title\">Caffeine and Legends Giveaway FAQs</h1>\n    <p class=\"sb-sub\">Have questions about entries, timing, or how the winner is picked? You’re in the right place.</p>\n\n    <section id=\"giveaway-faq\" class=\"sb-faq\" aria-label=\"Giveaway FAQs\">\n      <details>\n        <summary><span>How do I get entered?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Every dollar spent on <a href=\"https://legendarybox.com\" target=\"_blank\" rel=\"noopener\">legendarybox.com</a> during the times we are promoting the giveaway gets you entries to win!\n          You can also enter by mail — check out the <a href=\"https://sharedsweeps.com/rules\" target=\"_blank\" rel=\"noopener\">official rules</a> for details.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>How many entries do I have?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Entries are shown on each product page — so you always know what you're earning as you shop.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>When does the giveaway end?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          The giveaway ends on <strong>December 2, 2025</strong>.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>How is the winner contacted?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          The winner will be contacted directly on or around <strong>December 12, 2025</strong>.\n          We will never ask you for information or money to collect your prize.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>How do I claim my prize?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          After the winner is contacted, you will be able to choose the package or <strong>$100,000</strong>.\n          After you fill out the proper legal paperwork, which we will provide, you can make your decision.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>When is the winner announced?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          The winner will be announced on or around <strong>December 17, 2025</strong>.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>Who is Shared Sweeps?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Shared Sweeps is a shared giveaway platform that partners with brands (like <strong>Caffeine and Legends</strong>) to enable their customers\n          to earn entries to the giveaway for purchasing on their site!\n        </div>\n      </details>\n\n      <details>\n        <summary><span>Is there a free method of entry?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Yes! Please check the <a href=\"https://sharedsweeps.com/rules\" target=\"_blank\" rel=\"noopener\">official rules</a> for the details on the free method of entry.\n        </div>\n      </details>\n    </section>\n  </main>\n</body>\n</html>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "rich_text_jxUjbc": {
       "type": "rich-text",
       "blocks": {
@@ -309,6 +270,45 @@
         "full_width": true,
         "padding_top": 20,
         "padding_bottom": 0
+      }
+    },
+    "featured_collection_mpj7C6": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "sweeps",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_kC3xxQ": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n  <title>Caffeine and Legends Giveaway FAQs</title>\n  <style>\n    /* Caffeine and Legends Giveaway FAQ styles */\n    :root{\n      --sb-text:#101a2a;\n      --sb-muted:#4a5568;\n      --sb-line:#e2e6ea;\n      --sb-brand:#003366;\n      --sb-bg:#ffffff;\n      --sb-radius:14px;\n    }\n    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:#f5f6f8;color:var(--sb-text)}\n    .sb-wrap{max-width:960px;margin:40px auto;padding:0 16px}\n    .sb-title{font-size:clamp(24px,3vw,32px);font-weight:800;margin:0 0 14px}\n    .sb-sub{color:var(--sb-muted);margin:0 0 24px}\n    .sb-faq{--pad-x:20px;--pad-y:16px}\n    .sb-faq details{background:var(--sb-bg);border:1px solid var(--sb-line);border-radius:var(--sb-radius);margin:12px 0;overflow:hidden;transition:border-color .2s,box-shadow .2s}\n    .sb-faq details:focus-within{border-color:var(--sb-brand);box-shadow:0 0 0 3px rgba(0,51,102,.08)}\n    .sb-faq summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:12px;padding:var(--pad-y) var(--pad-x);font-weight:700;color:var(--sb-text)}\n    .sb-faq summary::-webkit-details-marker{display:none}\n    .sb-faq .sb-icon{margin-left:auto;font-size:22px;line-height:1;color:var(--sb-brand);transition:transform .2s ease}\n    .sb-faq details[open] .sb-icon{transform:rotate(45deg)} /* + turns into × */\n    .sb-faq .sb-a{padding:0 var(--pad-x) calc(var(--pad-y) + 2px);color:var(--sb-muted);line-height:1.6}\n    .sb-faq a{color:var(--sb-brand);text-decoration:underline}\n    @media (prefers-reduced-motion:reduce){\n      .sb-faq details,.sb-faq .sb-icon{transition:none}\n    }\n  </style>\n</head>\n<body>\n  <main class=\"sb-wrap\">\n    <h1 class=\"sb-title\">Caffeine and Legends Giveaway FAQs</h1>\n    <p class=\"sb-sub\">Have questions about entries, timing, or how the winner is picked? You’re in the right place.</p>\n\n    <section id=\"giveaway-faq\" class=\"sb-faq\" aria-label=\"Giveaway FAQs\">\n      <details>\n        <summary><span>How do I get entered?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Every dollar spent on <a href=\"https://legendarybox.com\" target=\"_blank\" rel=\"noopener\">legendarybox.com</a> during the times we are promoting the giveaway gets you entries to win!\n          You can also enter by mail — check out the <a href=\"https://sharedsweeps.com/rules\" target=\"_blank\" rel=\"noopener\">official rules</a> for details.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>How many entries do I have?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Entries are shown on each product page — so you always know what you're earning as you shop.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>When does the giveaway end?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          The giveaway ends on <strong>December 2, 2025</strong>.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>How is the winner contacted?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          The winner will be contacted directly on or around <strong>December 12, 2025</strong>.\n          We will never ask you for information or money to collect your prize.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>How do I claim my prize?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          After the winner is contacted, you will be able to choose the package or <strong>$100,000</strong>.\n          After you fill out the proper legal paperwork, which we will provide, you can make your decision.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>When is the winner announced?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          The winner will be announced on or around <strong>December 17, 2025</strong>.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>Who is Shared Sweeps?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Shared Sweeps is a shared giveaway platform that partners with brands (like <strong>Caffeine and Legends</strong>) to enable their customers\n          to earn entries to the giveaway for purchasing on their site!\n        </div>\n      </details>\n\n      <details>\n        <summary><span>Is there a free method of entry?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Yes! Please check the <a href=\"https://sharedsweeps.com/rules\" target=\"_blank\" rel=\"noopener\">official rules</a> for the details on the free method of entry.\n        </div>\n      </details>\n    </section>\n  </main>\n</body>\n</html>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "rich_text_qUaRpi": {
