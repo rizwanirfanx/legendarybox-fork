@@ -1,1 +1,485 @@
-{"current":{"logo":"shopify:\/\/shop_images\/Site_Logo_373E46.png","logo_width":240,"favicon":"shopify:\/\/shop_images\/Caffeine_and_Legends_Logo_500x500NEW_1.png","type_header_font":"domine_n4","heading_scale":100,"type_body_font":"merriweather_n4","body_scale":100,"page_width":1200,"spacing_sections":0,"spacing_grid_horizontal":8,"spacing_grid_vertical":8,"animations_reveal_on_scroll":true,"animations_hover_elements":"none","buttons_border_thickness":1,"buttons_border_opacity":100,"buttons_radius":30,"buttons_shadow_opacity":0,"buttons_shadow_horizontal_offset":0,"buttons_shadow_vertical_offset":4,"buttons_shadow_blur":5,"variant_pills_border_thickness":1,"variant_pills_border_opacity":55,"variant_pills_radius":40,"variant_pills_shadow_opacity":0,"variant_pills_shadow_horizontal_offset":0,"variant_pills_shadow_vertical_offset":4,"variant_pills_shadow_blur":5,"inputs_border_thickness":1,"inputs_border_opacity":55,"inputs_radius":0,"inputs_shadow_opacity":0,"inputs_shadow_horizontal_offset":0,"inputs_shadow_vertical_offset":4,"inputs_shadow_blur":5,"card_style":"standard","card_image_padding":0,"card_text_alignment":"left","card_color_scheme":"scheme-2","card_border_thickness":0,"card_border_opacity":10,"card_corner_radius":0,"card_shadow_opacity":0,"card_shadow_horizontal_offset":0,"card_shadow_vertical_offset":4,"card_shadow_blur":5,"collection_card_style":"standard","collection_card_image_padding":0,"collection_card_text_alignment":"left","collection_card_color_scheme":"scheme-2","collection_card_border_thickness":0,"collection_card_border_opacity":10,"collection_card_corner_radius":0,"collection_card_shadow_opacity":0,"collection_card_shadow_horizontal_offset":0,"collection_card_shadow_vertical_offset":4,"collection_card_shadow_blur":5,"blog_card_style":"standard","blog_card_image_padding":0,"blog_card_text_alignment":"left","blog_card_color_scheme":"scheme-2","blog_card_border_thickness":0,"blog_card_border_opacity":10,"blog_card_corner_radius":0,"blog_card_shadow_opacity":0,"blog_card_shadow_horizontal_offset":0,"blog_card_shadow_vertical_offset":4,"blog_card_shadow_blur":5,"text_boxes_border_thickness":0,"text_boxes_border_opacity":10,"text_boxes_radius":16,"text_boxes_shadow_opacity":0,"text_boxes_shadow_horizontal_offset":0,"text_boxes_shadow_vertical_offset":4,"text_boxes_shadow_blur":5,"media_border_thickness":1,"media_border_opacity":5,"media_radius":0,"media_shadow_opacity":0,"media_shadow_horizontal_offset":0,"media_shadow_vertical_offset":4,"media_shadow_blur":5,"popup_border_thickness":1,"popup_border_opacity":10,"popup_corner_radius":0,"popup_shadow_opacity":5,"popup_shadow_horizontal_offset":0,"popup_shadow_vertical_offset":4,"popup_shadow_blur":5,"drawer_border_thickness":1,"drawer_border_opacity":10,"drawer_shadow_opacity":0,"drawer_shadow_horizontal_offset":0,"drawer_shadow_vertical_offset":4,"drawer_shadow_blur":5,"badge_position":"bottom left","badge_corner_radius":40,"sale_badge_color_scheme":"scheme-4","sold_out_badge_color_scheme":"scheme-3","brand_headline":"","brand_description":"<h3>Our Mission<\/h3><p>To support small authors, and deliver quality items along with your monthly read while still being kind to the planet.<\/p><h3>Did you know?<\/h3><p>Many of the coffee, tea & drinking vendors that we partner with also have shared values, like ethical sourcing and giveback programs!<\/p>","brand_image_width":100,"social_facebook_link":"https:\/\/www.facebook.com\/caffeineandlegendsbox","social_instagram_link":"https:\/\/www.instagram.com\/caffeineandlegends","social_youtube_link":"","social_tiktok_link":"https:\/\/www.tiktok.com\/@caffeine.and.legends?_d=secCgYIASAHKAESPgo8D%2BDhTRMxbaB1Ur2DCzEF31k00n47BDP9ENR10idEzjPkL07Dp%2F%2FPgQadFRlE5d%2BDeubPr8s%2FW0PJnkU0GgA%3D&checksum=76f5ac643eb0e370a153485108f76dd135837e449b563cc7f51e9d9430850f5f&language=en&sec_uid=MS4wLjABAAAAmyscqbDg3Uw-jlAY3AAqgMlHGDYonKok17CQN1rtED62dHyCrrQk6ks4jsu50gZm&sec_user_id=MS4wLjABAAAA63WG3LDU1kkA4xX0OwAEk5BulW0Y4HtaI-Ysqz4rXYOmob1yoB_Z1v2Yhzt0yIo3&share_app_id=1233&share_author_id=6863795253456290821&share_link_id=2835CC89-E192-4BAF-8084-CE7BB31E9032&tt_from=copy&u_code=dc5fibdel3d919&user_id=6820866973456237573&utm_campaign=client_share&utm_medium=ios&utm_source=copy&source=h5_m&_r=1","social_twitter_link":"https:\/\/x.com\/caffeinelegends","social_snapchat_link":"","social_pinterest_link":"","social_tumblr_link":"","social_vimeo_link":"","predictive_search_enabled":true,"predictive_search_show_vendor":false,"predictive_search_show_price":false,"currency_code_enabled":true,"cart_type":"drawer","show_vendor":false,"show_cart_note":false,"cart_drawer_collection":"shop-past-boxes","cart_color_scheme":"scheme-1","sections":{"main-password-header":{"type":"main-password-header","settings":{"color_scheme":"scheme-1"}},"main-password-footer":{"type":"main-password-footer","settings":{"color_scheme":"scheme-1"}}},"content_for_index":[],"blocks":{"4275615285897611771":{"type":"shopify:\/\/apps\/fera\/blocks\/embed\/2fbfcfa7-8a04-479f-89a8-0621fa099c51","disabled":false,"settings":{}},"1513253815146976218":{"type":"shopify:\/\/apps\/omnisend-email-marketing-sms\/blocks\/app-embed\/44704aa2-794f-4c5d-8c8e-039c841158e9","disabled":false,"settings":{}},"6174324309569838175":{"type":"shopify:\/\/apps\/smile-io\/blocks\/smile-shopify-app\/2fae4e25-1841-4ea2-bc02-bd548478c4f6","disabled":false,"settings":{}},"17151115064775110295":{"type":"shopify:\/\/apps\/recharge-subscriptions\/blocks\/recharge-theme\/371eed76-0b44-4869-9813-730372ea378e","disabled":false,"settings":{"color_brand":"#467C99","contrast_color":"#FFFFFF","color_brand_secondary":"#467C99","corners":"8px","app_background":"#f9f8f4","app_container":1200,"app_vertical_padding":32,"images_aspect_ratio":"1","cards_background":"#FFFFFF","cards_border_color":"rgba(0,0,0,0)"}},"6406956604159796213":{"type":"shopify:\/\/apps\/smart-seo\/blocks\/smartseo\/7b0a6064-ca2e-4392-9a1d-8c43c942357b","disabled":false,"settings":{}},"4976129024724438625":{"type":"shopify:\/\/apps\/smart-seo\/blocks\/brokenLinkDetection\/7b0a6064-ca2e-4392-9a1d-8c43c942357b","disabled":false,"settings":{}},"9005256451184024879":{"type":"shopify:\/\/apps\/uppromote-affiliate\/blocks\/customer-referral\/64c32457-930d-4cb9-9641-e24c0d9cf1f4","disabled":false,"settings":{}},"1996061711396120121":{"type":"shopify:\/\/apps\/uppromote-affiliate\/blocks\/message-bar\/64c32457-930d-4cb9-9641-e24c0d9cf1f4","disabled":false,"settings":{}},"10864971697205422121":{"type":"shopify:\/\/apps\/gorgias-live-chat-helpdesk\/blocks\/gorgias\/a66db725-7b96-4e3f-916e-6c8e6f87aaaa","disabled":false,"settings":{}},"18228966181090706294":{"type":"shopify:\/\/apps\/selleasy\/blocks\/app-embed\/790c1a03-a71f-4bc1-9869-00dad526d3c2","disabled":false,"settings":{"storefrontAccessToken":"f8ea1cdf5ffc1601f565e6701b503587"}},"8746983209849429782":{"type":"shopify:\/\/apps\/dealeasy\/blocks\/app-embed\/e47a8634-0496-480d-9e46-6f7fafd34b30","disabled":false,"settings":{"dealeasy_public_access_token":"ab28c36405f87753512089660f9b7a76","using_translated_handles":false,"custom_script_and_style":"<script><\/script>\n<style><\/style>"}},"3138269044488530766":{"type":"shopify:\/\/apps\/uppromote-affiliate\/blocks\/core-script\/64c32457-930d-4cb9-9641-e24c0d9cf1f4","disabled":false,"settings":{}},"16225679183443353566":{"type":"shopify:\/\/apps\/pixiehog\/blocks\/posthog_js_web\/3bc10c13-7b55-491e-8df6-d5677acf3250","disabled":false,"settings":{}},"10840395464443086010":{"type":"shopify:\/\/apps\/alia\/blocks\/customer-app-frame\/51f1d398-3e41-44da-b81e-defd5804b292","disabled":false,"settings":{}}},"color_schemes":{"scheme-1":{"settings":{"background":"#fcfcfc","background_gradient":"","text":"#373e46","button":"#e41111","button_label":"#ffffff","secondary_button_label":"#121212","shadow":"#121212"}},"scheme-2":{"settings":{"background":"#ffffff","background_gradient":"","text":"#121212","button":"#121212","button_label":"#f3f3f3","secondary_button_label":"#121212","shadow":"#121212"}},"scheme-3":{"settings":{"background":"#103948","background_gradient":"","text":"#ffffff","button":"#fcfcfc","button_label":"#000000","secondary_button_label":"#a3f20c","shadow":"#121212"}},"scheme-4":{"settings":{"background":"#121212","background_gradient":"","text":"#ffffff","button":"#ffffff","button_label":"#121212","secondary_button_label":"#ffffff","shadow":"#121212"}},"scheme-5":{"settings":{"background":"#b43333","background_gradient":"linear-gradient(133deg, rgba(243, 15, 15, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)","text":"#ffffff","button":"#ffffff","button_label":"#334fb4","secondary_button_label":"#ffffff","shadow":"#121212"}}}},"presets":{"Default":{"logo_width":90,"color_schemes":{"scheme-1":{"settings":{"background":"#FFFFFF","background_gradient":"","text":"#121212","button":"#121212","button_label":"#FFFFFF","secondary_button_label":"#121212","shadow":"#121212"}},"scheme-2":{"settings":{"background":"#F3F3F3","background_gradient":"","text":"#121212","button":"#121212","button_label":"#F3F3F3","secondary_button_label":"#121212","shadow":"#121212"}},"scheme-3":{"settings":{"background":"#242833","background_gradient":"","text":"#FFFFFF","button":"#FFFFFF","button_label":"#000000","secondary_button_label":"#FFFFFF","shadow":"#121212"}},"scheme-4":{"settings":{"background":"#121212","background_gradient":"","text":"#FFFFFF","button":"#FFFFFF","button_label":"#121212","secondary_button_label":"#FFFFFF","shadow":"#121212"}},"scheme-5":{"settings":{"background":"#334FB4","background_gradient":"","text":"#FFFFFF","button":"#FFFFFF","button_label":"#334FB4","secondary_button_label":"#FFFFFF","shadow":"#121212"}}},"type_header_font":"assistant_n4","heading_scale":100,"type_body_font":"assistant_n4","body_scale":100,"page_width":1200,"spacing_sections":0,"spacing_grid_horizontal":8,"spacing_grid_vertical":8,"animations_reveal_on_scroll":true,"animations_hover_elements":"none","buttons_border_thickness":1,"buttons_border_opacity":100,"buttons_radius":0,"buttons_shadow_opacity":0,"buttons_shadow_horizontal_offset":0,"buttons_shadow_vertical_offset":4,"buttons_shadow_blur":5,"variant_pills_border_thickness":1,"variant_pills_border_opacity":55,"variant_pills_radius":40,"variant_pills_shadow_opacity":0,"variant_pills_shadow_horizontal_offset":0,"variant_pills_shadow_vertical_offset":4,"variant_pills_shadow_blur":5,"inputs_border_thickness":1,"inputs_border_opacity":55,"inputs_radius":0,"inputs_shadow_opacity":0,"inputs_shadow_horizontal_offset":0,"inputs_shadow_vertical_offset":4,"inputs_shadow_blur":5,"card_style":"standard","card_image_padding":0,"card_text_alignment":"left","card_color_scheme":"scheme-2","card_border_thickness":0,"card_border_opacity":10,"card_corner_radius":0,"card_shadow_opacity":0,"card_shadow_horizontal_offset":0,"card_shadow_vertical_offset":4,"card_shadow_blur":5,"collection_card_style":"standard","collection_card_image_padding":0,"collection_card_text_alignment":"left","collection_card_color_scheme":"scheme-2","collection_card_border_thickness":0,"collection_card_border_opacity":10,"collection_card_corner_radius":0,"collection_card_shadow_opacity":0,"collection_card_shadow_horizontal_offset":0,"collection_card_shadow_vertical_offset":4,"collection_card_shadow_blur":5,"blog_card_style":"standard","blog_card_image_padding":0,"blog_card_text_alignment":"left","blog_card_color_scheme":"scheme-2","blog_card_border_thickness":0,"blog_card_border_opacity":10,"blog_card_corner_radius":0,"blog_card_shadow_opacity":0,"blog_card_shadow_horizontal_offset":0,"blog_card_shadow_vertical_offset":4,"blog_card_shadow_blur":5,"text_boxes_border_thickness":0,"text_boxes_border_opacity":10,"text_boxes_radius":0,"text_boxes_shadow_opacity":0,"text_boxes_shadow_horizontal_offset":0,"text_boxes_shadow_vertical_offset":4,"text_boxes_shadow_blur":5,"media_border_thickness":1,"media_border_opacity":5,"media_radius":0,"media_shadow_opacity":0,"media_shadow_horizontal_offset":0,"media_shadow_vertical_offset":4,"media_shadow_blur":5,"popup_border_thickness":1,"popup_border_opacity":10,"popup_corner_radius":0,"popup_shadow_opacity":5,"popup_shadow_horizontal_offset":0,"popup_shadow_vertical_offset":4,"popup_shadow_blur":5,"drawer_border_thickness":1,"drawer_border_opacity":10,"drawer_shadow_opacity":0,"drawer_shadow_horizontal_offset":0,"drawer_shadow_vertical_offset":4,"drawer_shadow_blur":5,"badge_position":"bottom left","badge_corner_radius":40,"sale_badge_color_scheme":"scheme-4","sold_out_badge_color_scheme":"scheme-3","brand_headline":"","brand_description":"<p><\/p>","brand_image_width":100,"social_twitter_link":"","social_facebook_link":"","social_pinterest_link":"","social_instagram_link":"","social_tiktok_link":"","social_tumblr_link":"","social_snapchat_link":"","social_youtube_link":"","social_vimeo_link":"","predictive_search_enabled":true,"predictive_search_show_vendor":false,"predictive_search_show_price":false,"currency_code_enabled":true,"cart_type":"notification","show_vendor":false,"show_cart_note":false,"cart_drawer_collection":"","cart_color_scheme":"scheme-1","sections":{"main-password-header":{"type":"main-password-header","settings":{"color_scheme":"scheme-1"}},"main-password-footer":{"type":"main-password-footer","settings":{"color_scheme":"scheme-1"}}}}}}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "current": {
+    "logo": "shopify://shop_images/Site_Logo_373E46.png",
+    "logo_width": 240,
+    "favicon": "shopify://shop_images/Caffeine_and_Legends_Logo_500x500NEW_1.png",
+    "type_header_font": "domine_n4",
+    "heading_scale": 100,
+    "type_body_font": "merriweather_n4",
+    "body_scale": 100,
+    "page_width": 1200,
+    "spacing_sections": 0,
+    "spacing_grid_horizontal": 8,
+    "spacing_grid_vertical": 8,
+    "animations_reveal_on_scroll": true,
+    "animations_hover_elements": "none",
+    "buttons_border_thickness": 1,
+    "buttons_border_opacity": 100,
+    "buttons_radius": 30,
+    "buttons_shadow_opacity": 0,
+    "buttons_shadow_horizontal_offset": 0,
+    "buttons_shadow_vertical_offset": 4,
+    "buttons_shadow_blur": 5,
+    "variant_pills_border_thickness": 1,
+    "variant_pills_border_opacity": 55,
+    "variant_pills_radius": 40,
+    "variant_pills_shadow_opacity": 0,
+    "variant_pills_shadow_horizontal_offset": 0,
+    "variant_pills_shadow_vertical_offset": 4,
+    "variant_pills_shadow_blur": 5,
+    "inputs_border_thickness": 1,
+    "inputs_border_opacity": 55,
+    "inputs_radius": 0,
+    "inputs_shadow_opacity": 0,
+    "inputs_shadow_horizontal_offset": 0,
+    "inputs_shadow_vertical_offset": 4,
+    "inputs_shadow_blur": 5,
+    "card_style": "standard",
+    "card_image_padding": 0,
+    "card_text_alignment": "left",
+    "card_color_scheme": "scheme-2",
+    "card_border_thickness": 0,
+    "card_border_opacity": 10,
+    "card_corner_radius": 0,
+    "card_shadow_opacity": 0,
+    "card_shadow_horizontal_offset": 0,
+    "card_shadow_vertical_offset": 4,
+    "card_shadow_blur": 5,
+    "collection_card_style": "standard",
+    "collection_card_image_padding": 0,
+    "collection_card_text_alignment": "left",
+    "collection_card_color_scheme": "scheme-2",
+    "collection_card_border_thickness": 0,
+    "collection_card_border_opacity": 10,
+    "collection_card_corner_radius": 0,
+    "collection_card_shadow_opacity": 0,
+    "collection_card_shadow_horizontal_offset": 0,
+    "collection_card_shadow_vertical_offset": 4,
+    "collection_card_shadow_blur": 5,
+    "blog_card_style": "standard",
+    "blog_card_image_padding": 0,
+    "blog_card_text_alignment": "left",
+    "blog_card_color_scheme": "scheme-2",
+    "blog_card_border_thickness": 0,
+    "blog_card_border_opacity": 10,
+    "blog_card_corner_radius": 0,
+    "blog_card_shadow_opacity": 0,
+    "blog_card_shadow_horizontal_offset": 0,
+    "blog_card_shadow_vertical_offset": 4,
+    "blog_card_shadow_blur": 5,
+    "text_boxes_border_thickness": 0,
+    "text_boxes_border_opacity": 10,
+    "text_boxes_radius": 16,
+    "text_boxes_shadow_opacity": 0,
+    "text_boxes_shadow_horizontal_offset": 0,
+    "text_boxes_shadow_vertical_offset": 4,
+    "text_boxes_shadow_blur": 5,
+    "media_border_thickness": 1,
+    "media_border_opacity": 5,
+    "media_radius": 0,
+    "media_shadow_opacity": 0,
+    "media_shadow_horizontal_offset": 0,
+    "media_shadow_vertical_offset": 4,
+    "media_shadow_blur": 5,
+    "popup_border_thickness": 1,
+    "popup_border_opacity": 10,
+    "popup_corner_radius": 0,
+    "popup_shadow_opacity": 5,
+    "popup_shadow_horizontal_offset": 0,
+    "popup_shadow_vertical_offset": 4,
+    "popup_shadow_blur": 5,
+    "drawer_border_thickness": 1,
+    "drawer_border_opacity": 10,
+    "drawer_shadow_opacity": 0,
+    "drawer_shadow_horizontal_offset": 0,
+    "drawer_shadow_vertical_offset": 4,
+    "drawer_shadow_blur": 5,
+    "badge_position": "bottom left",
+    "badge_corner_radius": 40,
+    "sale_badge_color_scheme": "scheme-4",
+    "sold_out_badge_color_scheme": "scheme-3",
+    "brand_headline": "",
+    "brand_description": "<h3>Our Mission</h3><p>To support small authors, and deliver quality items along with your monthly read while still being kind to the planet.</p><h3>Did you know?</h3><p>Many of the coffee, tea & drinking vendors that we partner with also have shared values, like ethical sourcing and giveback programs!</p>",
+    "brand_image_width": 100,
+    "social_facebook_link": "https://www.facebook.com/caffeineandlegendsbox",
+    "social_instagram_link": "https://www.instagram.com/caffeineandlegends",
+    "social_youtube_link": "",
+    "social_tiktok_link": "https://www.tiktok.com/@caffeine.and.legends?_d=secCgYIASAHKAESPgo8D%2BDhTRMxbaB1Ur2DCzEF31k00n47BDP9ENR10idEzjPkL07Dp%2F%2FPgQadFRlE5d%2BDeubPr8s%2FW0PJnkU0GgA%3D&checksum=76f5ac643eb0e370a153485108f76dd135837e449b563cc7f51e9d9430850f5f&language=en&sec_uid=MS4wLjABAAAAmyscqbDg3Uw-jlAY3AAqgMlHGDYonKok17CQN1rtED62dHyCrrQk6ks4jsu50gZm&sec_user_id=MS4wLjABAAAA63WG3LDU1kkA4xX0OwAEk5BulW0Y4HtaI-Ysqz4rXYOmob1yoB_Z1v2Yhzt0yIo3&share_app_id=1233&share_author_id=6863795253456290821&share_link_id=2835CC89-E192-4BAF-8084-CE7BB31E9032&tt_from=copy&u_code=dc5fibdel3d919&user_id=6820866973456237573&utm_campaign=client_share&utm_medium=ios&utm_source=copy&source=h5_m&_r=1",
+    "social_twitter_link": "https://x.com/caffeinelegends",
+    "social_snapchat_link": "",
+    "social_pinterest_link": "",
+    "social_tumblr_link": "",
+    "social_vimeo_link": "",
+    "predictive_search_enabled": true,
+    "predictive_search_show_vendor": false,
+    "predictive_search_show_price": false,
+    "currency_code_enabled": true,
+    "cart_type": "page",
+    "show_vendor": false,
+    "show_cart_note": false,
+    "cart_drawer_collection": "shop-past-boxes",
+    "cart_color_scheme": "scheme-1",
+    "sections": {
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "color_scheme": "scheme-1"
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+          "color_scheme": "scheme-1"
+        }
+      }
+    },
+    "content_for_index": [],
+    "blocks": {
+      "4275615285897611771": {
+        "type": "shopify://apps/fera/blocks/embed/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+        "disabled": false,
+        "settings": {}
+      },
+      "1513253815146976218": {
+        "type": "shopify://apps/omnisend-email-marketing-sms/blocks/app-embed/44704aa2-794f-4c5d-8c8e-039c841158e9",
+        "disabled": false,
+        "settings": {}
+      },
+      "6174324309569838175": {
+        "type": "shopify://apps/smile-io/blocks/smile-shopify-app/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
+        "disabled": false,
+        "settings": {}
+      },
+      "17151115064775110295": {
+        "type": "shopify://apps/recharge-subscriptions/blocks/recharge-theme/371eed76-0b44-4869-9813-730372ea378e",
+        "disabled": false,
+        "settings": {
+          "color_brand": "#467C99",
+          "contrast_color": "#FFFFFF",
+          "color_brand_secondary": "#467C99",
+          "corners": "8px",
+          "app_background": "#f9f8f4",
+          "app_container": 1200,
+          "app_vertical_padding": 32,
+          "images_aspect_ratio": "1",
+          "cards_background": "#FFFFFF",
+          "cards_border_color": "rgba(0,0,0,0)"
+        }
+      },
+      "6406956604159796213": {
+        "type": "shopify://apps/smart-seo/blocks/smartseo/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {}
+      },
+      "4976129024724438625": {
+        "type": "shopify://apps/smart-seo/blocks/brokenLinkDetection/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {}
+      },
+      "9005256451184024879": {
+        "type": "shopify://apps/uppromote-affiliate/blocks/customer-referral/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
+        "disabled": false,
+        "settings": {}
+      },
+      "1996061711396120121": {
+        "type": "shopify://apps/uppromote-affiliate/blocks/message-bar/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
+        "disabled": false,
+        "settings": {}
+      },
+      "10864971697205422121": {
+        "type": "shopify://apps/gorgias-live-chat-helpdesk/blocks/gorgias/a66db725-7b96-4e3f-916e-6c8e6f87aaaa",
+        "disabled": false,
+        "settings": {}
+      },
+      "18228966181090706294": {
+        "type": "shopify://apps/selleasy/blocks/app-embed/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+        "disabled": false,
+        "settings": {
+          "storefrontAccessToken": "f8ea1cdf5ffc1601f565e6701b503587"
+        }
+      },
+      "8746983209849429782": {
+        "type": "shopify://apps/dealeasy/blocks/app-embed/e47a8634-0496-480d-9e46-6f7fafd34b30",
+        "disabled": false,
+        "settings": {
+          "dealeasy_public_access_token": "ab28c36405f87753512089660f9b7a76",
+          "using_translated_handles": false,
+          "custom_script_and_style": "<script></script>\n<style></style>"
+        }
+      },
+      "3138269044488530766": {
+        "type": "shopify://apps/uppromote-affiliate/blocks/core-script/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
+        "disabled": false,
+        "settings": {}
+      },
+      "16225679183443353566": {
+        "type": "shopify://apps/pixiehog/blocks/posthog_js_web/3bc10c13-7b55-491e-8df6-d5677acf3250",
+        "disabled": false,
+        "settings": {}
+      },
+      "10840395464443086010": {
+        "type": "shopify://apps/alia/blocks/customer-app-frame/51f1d398-3e41-44da-b81e-defd5804b292",
+        "disabled": false,
+        "settings": {}
+      }
+    },
+    "color_schemes": {
+      "scheme-1": {
+        "settings": {
+          "background": "#fcfcfc",
+          "background_gradient": "",
+          "text": "#373e46",
+          "button": "#e41111",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#121212",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-2": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#121212",
+          "button": "#121212",
+          "button_label": "#f3f3f3",
+          "secondary_button_label": "#121212",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-3": {
+        "settings": {
+          "background": "#103948",
+          "background_gradient": "",
+          "text": "#ffffff",
+          "button": "#fcfcfc",
+          "button_label": "#000000",
+          "secondary_button_label": "#a3f20c",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-4": {
+        "settings": {
+          "background": "#121212",
+          "background_gradient": "",
+          "text": "#ffffff",
+          "button": "#ffffff",
+          "button_label": "#121212",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-5": {
+        "settings": {
+          "background": "#b43333",
+          "background_gradient": "linear-gradient(133deg, rgba(243, 15, 15, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)",
+          "text": "#ffffff",
+          "button": "#ffffff",
+          "button_label": "#334fb4",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#121212"
+        }
+      }
+    }
+  },
+  "presets": {
+    "Default": {
+      "logo_width": 90,
+      "color_schemes": {
+        "scheme-1": {
+          "settings": {
+            "background": "#FFFFFF",
+            "background_gradient": "",
+            "text": "#121212",
+            "button": "#121212",
+            "button_label": "#FFFFFF",
+            "secondary_button_label": "#121212",
+            "shadow": "#121212"
+          }
+        },
+        "scheme-2": {
+          "settings": {
+            "background": "#F3F3F3",
+            "background_gradient": "",
+            "text": "#121212",
+            "button": "#121212",
+            "button_label": "#F3F3F3",
+            "secondary_button_label": "#121212",
+            "shadow": "#121212"
+          }
+        },
+        "scheme-3": {
+          "settings": {
+            "background": "#242833",
+            "background_gradient": "",
+            "text": "#FFFFFF",
+            "button": "#FFFFFF",
+            "button_label": "#000000",
+            "secondary_button_label": "#FFFFFF",
+            "shadow": "#121212"
+          }
+        },
+        "scheme-4": {
+          "settings": {
+            "background": "#121212",
+            "background_gradient": "",
+            "text": "#FFFFFF",
+            "button": "#FFFFFF",
+            "button_label": "#121212",
+            "secondary_button_label": "#FFFFFF",
+            "shadow": "#121212"
+          }
+        },
+        "scheme-5": {
+          "settings": {
+            "background": "#334FB4",
+            "background_gradient": "",
+            "text": "#FFFFFF",
+            "button": "#FFFFFF",
+            "button_label": "#334FB4",
+            "secondary_button_label": "#FFFFFF",
+            "shadow": "#121212"
+          }
+        }
+      },
+      "type_header_font": "assistant_n4",
+      "heading_scale": 100,
+      "type_body_font": "assistant_n4",
+      "body_scale": 100,
+      "page_width": 1200,
+      "spacing_sections": 0,
+      "spacing_grid_horizontal": 8,
+      "spacing_grid_vertical": 8,
+      "animations_reveal_on_scroll": true,
+      "animations_hover_elements": "none",
+      "buttons_border_thickness": 1,
+      "buttons_border_opacity": 100,
+      "buttons_radius": 0,
+      "buttons_shadow_opacity": 0,
+      "buttons_shadow_horizontal_offset": 0,
+      "buttons_shadow_vertical_offset": 4,
+      "buttons_shadow_blur": 5,
+      "variant_pills_border_thickness": 1,
+      "variant_pills_border_opacity": 55,
+      "variant_pills_radius": 40,
+      "variant_pills_shadow_opacity": 0,
+      "variant_pills_shadow_horizontal_offset": 0,
+      "variant_pills_shadow_vertical_offset": 4,
+      "variant_pills_shadow_blur": 5,
+      "inputs_border_thickness": 1,
+      "inputs_border_opacity": 55,
+      "inputs_radius": 0,
+      "inputs_shadow_opacity": 0,
+      "inputs_shadow_horizontal_offset": 0,
+      "inputs_shadow_vertical_offset": 4,
+      "inputs_shadow_blur": 5,
+      "card_style": "standard",
+      "card_image_padding": 0,
+      "card_text_alignment": "left",
+      "card_color_scheme": "scheme-2",
+      "card_border_thickness": 0,
+      "card_border_opacity": 10,
+      "card_corner_radius": 0,
+      "card_shadow_opacity": 0,
+      "card_shadow_horizontal_offset": 0,
+      "card_shadow_vertical_offset": 4,
+      "card_shadow_blur": 5,
+      "collection_card_style": "standard",
+      "collection_card_image_padding": 0,
+      "collection_card_text_alignment": "left",
+      "collection_card_color_scheme": "scheme-2",
+      "collection_card_border_thickness": 0,
+      "collection_card_border_opacity": 10,
+      "collection_card_corner_radius": 0,
+      "collection_card_shadow_opacity": 0,
+      "collection_card_shadow_horizontal_offset": 0,
+      "collection_card_shadow_vertical_offset": 4,
+      "collection_card_shadow_blur": 5,
+      "blog_card_style": "standard",
+      "blog_card_image_padding": 0,
+      "blog_card_text_alignment": "left",
+      "blog_card_color_scheme": "scheme-2",
+      "blog_card_border_thickness": 0,
+      "blog_card_border_opacity": 10,
+      "blog_card_corner_radius": 0,
+      "blog_card_shadow_opacity": 0,
+      "blog_card_shadow_horizontal_offset": 0,
+      "blog_card_shadow_vertical_offset": 4,
+      "blog_card_shadow_blur": 5,
+      "text_boxes_border_thickness": 0,
+      "text_boxes_border_opacity": 10,
+      "text_boxes_radius": 0,
+      "text_boxes_shadow_opacity": 0,
+      "text_boxes_shadow_horizontal_offset": 0,
+      "text_boxes_shadow_vertical_offset": 4,
+      "text_boxes_shadow_blur": 5,
+      "media_border_thickness": 1,
+      "media_border_opacity": 5,
+      "media_radius": 0,
+      "media_shadow_opacity": 0,
+      "media_shadow_horizontal_offset": 0,
+      "media_shadow_vertical_offset": 4,
+      "media_shadow_blur": 5,
+      "popup_border_thickness": 1,
+      "popup_border_opacity": 10,
+      "popup_corner_radius": 0,
+      "popup_shadow_opacity": 5,
+      "popup_shadow_horizontal_offset": 0,
+      "popup_shadow_vertical_offset": 4,
+      "popup_shadow_blur": 5,
+      "drawer_border_thickness": 1,
+      "drawer_border_opacity": 10,
+      "drawer_shadow_opacity": 0,
+      "drawer_shadow_horizontal_offset": 0,
+      "drawer_shadow_vertical_offset": 4,
+      "drawer_shadow_blur": 5,
+      "badge_position": "bottom left",
+      "badge_corner_radius": 40,
+      "sale_badge_color_scheme": "scheme-4",
+      "sold_out_badge_color_scheme": "scheme-3",
+      "brand_headline": "",
+      "brand_description": "<p></p>",
+      "brand_image_width": 100,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tiktok_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "predictive_search_enabled": true,
+      "predictive_search_show_vendor": false,
+      "predictive_search_show_price": false,
+      "currency_code_enabled": true,
+      "cart_type": "notification",
+      "show_vendor": false,
+      "show_cart_note": false,
+      "cart_drawer_collection": "",
+      "cart_color_scheme": "scheme-1",
+      "sections": {
+        "main-password-header": {
+          "type": "main-password-header",
+          "settings": {
+            "color_scheme": "scheme-1"
+          }
+        },
+        "main-password-footer": {
+          "type": "main-password-footer",
+          "settings": {
+            "color_scheme": "scheme-1"
+          }
+        }
+      }
+    }
+  }
+}
