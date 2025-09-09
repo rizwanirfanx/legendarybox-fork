@@ -27,11 +27,19 @@
             "text": "Win a $100K Dream Library Makeover — Every Purchase is an Entry",
             "link": "shopify://pages/sweepstakes"
           }
+        },
+        "announcement_MAXJTU": {
+          "type": "announcement",
+          "settings": {
+            "text": "🏆 We’re nominated! Vote Caffeine & Legends as Best Book Subscription Box",
+            "link": "shopify://pages/usa-todays-best-book-box"
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_qGgnDX"
+        "announcement_qGgnDX",
+        "announcement_MAXJTU"
       ],
       "settings": {
         "color_scheme": "scheme-5",
