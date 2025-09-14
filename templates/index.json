@@ -399,6 +399,23 @@
         "include_margins": false
       }
     },
+    "175785947288fadcd1": {
+      "type": "apps",
+      "blocks": {
+        "gsc_instagram_feed_instafeed_p6rVXx": {
+          "type": "shopify://apps/gsc-instagram-feed/blocks/instafeed/96970b1b-b770-454f-b16b-51f47e1aa4ed",
+          "settings": {
+            "widget_id": "GSC-EtHmDbRnubLeVoX"
+          }
+        }
+      },
+      "block_order": [
+        "gsc_instagram_feed_instafeed_p6rVXx"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
     "image_with_text_wDz4gn": {
       "type": "image-with-text",
       "blocks": {
@@ -541,23 +558,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "175785947288fadcd1": {
-      "type": "apps",
-      "blocks": {
-        "gsc_instagram_feed_instafeed_p6rVXx": {
-          "type": "shopify://apps/gsc-instagram-feed/blocks/instafeed/96970b1b-b770-454f-b16b-51f47e1aa4ed",
-          "settings": {
-            "widget_id": "GSC-EtHmDbRnubLeVoX"
-          }
-        }
-      },
-      "block_order": [
-        "gsc_instagram_feed_instafeed_p6rVXx"
-      ],
-      "settings": {
-        "include_margins": false
-      }
     }
   },
   "order": [
@@ -573,10 +573,10 @@
     "multicolumn_nEqp3a",
     "173386723287884e9c",
     "175779830678b36ff4",
+    "175785947288fadcd1",
     "image_with_text_wDz4gn",
     "image_with_text_tfmHMD",
     "173386960102aaddce",
-    "rich_text_LFNMM3",
-    "175785947288fadcd1"
+    "rich_text_LFNMM3"
   ]
 }
