@@ -331,6 +331,12 @@
         "padding_bottom": 12
       }
     },
+    "173386723287884e9c": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
     "multicolumn_nEqp3a": {
       "type": "multicolumn",
       "blocks": {
@@ -385,12 +391,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "173386723287884e9c": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
       }
     },
     "175779830678b36ff4": {
@@ -570,8 +570,8 @@
     "custom_liquid_egAAfi",
     "image_with_text_TB6eY3",
     "custom_liquid_6haXyG",
-    "multicolumn_nEqp3a",
     "173386723287884e9c",
+    "multicolumn_nEqp3a",
     "175779830678b36ff4",
     "175785947288fadcd1",
     "image_with_text_wDz4gn",
