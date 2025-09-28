@@ -1,0 +1,370 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "hero": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UzXPgD": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UzXPgD"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Title_13.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "rich_text_CcQ7xp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iyRJtt": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Enter for a chance to win $100,000 to build your dream home library!</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_LGCqbm": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_9YGCFK": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iyRJtt",
+        "text_LGCqbm",
+        "button_9YGCFK"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
+    "image_with_text_zx6ppU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_qJdpY8": {
+          "type": "heading",
+          "settings": {
+            "heading": "How the Dream Library Giveaway Works",
+            "heading_size": "h1"
+          }
+        },
+        "text_z4NDTW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every purchase or subscription renewal with Caffeine & Legends between <strong>September 5th and December 2nd, 2025</strong> earns you entries into our <strong>$100K Dream Library Makeover Giveaway </strong>in partnership with Shared Sweeps. ✨📚 One lucky winner will be chosen at random across all participating brands — and if they entered through Caffeine & Legends, they’ll take home our grand prize: a $100,000 Dream Library Glow-Up.<br/><br/></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qJdpY8",
+        "text_z4NDTW"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Title_1080_x_1080_px_5.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_4HRtWM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LgHMGj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_1080_x_600_px_5.png",
+            "title": "Subscribe.",
+            "text": "<p>Pick your plan and select your drink preference. Choose coffee, tea, or drinking chocolate to enjoy while you dive into your new read.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Ujtjt9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_1080_x_600_px_3.png",
+            "title": "Receive.",
+            "text": "<p>Boxes ship between the 1st-7th of each month, and feature a book, drink, and extras that are inspired by the book of the month.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Hxk7r9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_1080_x_600_px_2.png",
+            "title": "Explore.",
+            "text": "<p>Sip, read, and relax with your new book! Build the perfect library, savor new flavors, and connect with authors like never before.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LgHMGj",
+        "column_Ujtjt9",
+        "column_Hxk7r9"
+      ],
+      "settings": {
+        "title": "How It Works...",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "SUBSCRIBE NOW",
+        "button_link": "#plan-selector",
+        "color_scheme": "scheme-3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_GTDwdU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GBAYNK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/9a41b2eb-ca5d-4732-a0e9-36b2d0d4f492.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DD7DWb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ezgif-2-e502546d3d.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_GBAYNK",
+        "column_DD7DWb"
+      ],
+      "settings": {
+        "title": "Become a C&L Member. Each Box Includes....",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Subscribe Here",
+        "button_link": "#plan-selector",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_tqFUHz": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <title>Plan Selector</title>\n  <style>\n    body {\n      font-family: 'Merriweather', serif;\n      background-color: #f9f9f9;\n      margin: 0;\n      padding: 0;\n      box-sizing: border-box;\n    }\n\n    .container {\n      max-width: 1100px; /* a touch wider to breathe */\n      margin: 20px auto;\n      background-color: #103948;\n      padding: 20px;\n      border-radius: 10px;\n      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n      text-align: center;\n    }\n\n    h2 {\n      font-size: 28px;\n      margin-bottom: 30px;\n      color: #fff;\n    }\n\n    /* ==== GRID LAYOUT (fixes 4-across on desktop) ==== */\n    .plan-group {\n      display: grid;\n      grid-template-columns: repeat(4, minmax(0, 1fr));\n      gap: 20px;\n    }\n    @media (max-width: 992px) {\n      .plan-group { grid-template-columns: repeat(2, minmax(0, 1fr)); }\n    }\n    @media (max-width: 520px) {\n      .plan-group { grid-template-columns: 1fr; }\n    }\n\n    .plan {\n      border-radius: 10px;\n      padding: 20px 20px 26px;\n      text-align: center;\n      background-color: #fff;\n      transition: transform 0.3s, box-shadow 0.3s;\n      position: relative;\n      display: flex;\n      flex-direction: column;\n      gap: 8px;\n      min-height: 360px;\n    }\n\n    .plan:hover {\n      transform: translateY(-5px);\n      box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);\n    }\n\n    .plan-title {\n      font-size: 20px;\n      font-weight: bold;\n      color: #e63946;\n      margin-bottom: 6px;\n    }\n    .plan-title span { display: block; }\n\n    .plan-detail {\n      font-size: 24px;\n      font-weight: bold;\n      color: #333;\n      margin-bottom: 4px;\n    }\n    .plan-detail span { font-size: 16px; color: #666; }\n\n    .plan-total {\n      font-size: 16px;\n      color: #666;\n      margin-bottom: 6px;\n    }\n\n    .cta-button {\n      margin-top: 8px;\n      padding: 12px 40px;\n      background-color: #e63946;\n      color: #fff;\n      text-decoration: none;\n      font-size: 18px;\n      font-weight: bold;\n      text-transform: uppercase;\n      letter-spacing: 1px;\n      border-radius: 50px;\n      border: none;\n      display: inline-block;\n      transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;\n      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    }\n    .cta-button:hover {\n      background-color: #c71f1f;\n      transform: translateY(-2px);\n      box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);\n    }\n\n    .bonus-scoop {\n      font-size: 14px;\n      color: #c71f1f;\n      font-style: italic;\n      margin-top: 2px;\n    }\n\n    .prepaid-gift-info {\n      margin-top: 20px;\n      padding: 10px 20px;\n      background-color: transparent;\n      border-radius: 10px;\n      display: flex;\n      flex-direction: column;\n      align-items: center;\n      font-size: 16px;\n      font-weight: bold;\n      color: #A3F20C;\n    }\n    .scoop-thumb { margin-top: 5px; width: 200px; height: auto; }\n    .gift-text { text-align: center; }\n\n    /* ===== Smaller Entries badge ===== */\n    .entries-badge {\n      margin-top: auto;          /* pins badge to the card bottom */\n      align-self: center;        /* centered */\n      display: inline-flex;\n      align-items: center;\n      gap: 8px;\n      padding: 5px 8px 5px 10px;\n      border: 2px solid #0e3a48;\n      border-radius: 8px;\n      background: #ffffff;\n      color: #0e3a48;\n      font-weight: 700;\n      letter-spacing: 0.04em;\n      box-shadow: 0 2px 6px rgba(16, 57, 72, 0.15);\n      text-transform: uppercase;\n      white-space: nowrap;\n    }\n    .entries-badge .entries-label { font-size: 11px; }\n    .entries-badge .entries-count { font-size: 13px; margin: 0 2px; }\n    .entries-badge .multiplier {\n      background: #0e3a48;\n      color: #fff;\n      padding: 4px 8px;\n      border-radius: 6px;\n      font-size: 12px;\n      line-height: 1;\n      font-weight: 700;\n    }\n  </style>\n</head>\n<body>\n  <div id=\"plan-selector\" class=\"container\">\n    <h2>Choose Your Subscription Plan</h2>\n\n    <div class=\"plan-group\">\n      <!-- Monthly: 42 entries, 1X -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">Monthly<span>Plan</span></div>\n        <div class=\"plan-detail\">$42.99<span>/mo.</span></div>\n        <div class=\"plan-total\">+ Shipping</div>\n        <a href=\"https://legendarybox.com/products/monthly-subscription-box\" class=\"cta-button\">Join Now</a>\n        <div class=\"entries-badge\">\n          <span class=\"entries-label\">Earn</span>\n          <span class=\"entries-count\">42</span>\n          <span class=\"entries-label\">Entries</span>\n          <span class=\"multiplier\">1X</span>\n        </div>\n      </div>\n\n      <!-- 3-Month: 125 entries, 1X -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">3-Month<span>Prepaid</span></div>\n        <div class=\"plan-detail\">$41.99<span>/box</span></div>\n        <div class=\"plan-total\">$125.97<span> Total + s/h</span></div>\n        <a href=\"https://legendarybox.com/products/3-month-subscription-plan\" class=\"cta-button\">Join Now</a>\n        <div class=\"bonus-scoop\">Bonus Coffee Scoop!</div>\n        <div class=\"entries-badge\">\n          <span class=\"entries-label\">Earn</span>\n          <span class=\"entries-count\">125</span>\n          <span class=\"entries-label\">Entries</span>\n          <span class=\"multiplier\">1X</span>\n        </div>\n      </div>\n\n      <!-- 6-Month: 1199 entries, 5X -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">6-Month<span>Prepaid</span></div>\n        <div class=\"plan-detail\">$39.99<span>/box</span></div>\n        <div class=\"plan-total\">$239.94<span> Total + s/h</span></div>\n        <a href=\"https://legendarybox.com/products/6-month-subscription-plan\" class=\"cta-button\">Join Now</a>\n        <div class=\"bonus-scoop\">Bonus Coffee Scoop!</div>\n        <div class=\"entries-badge\">\n          <span class=\"entries-label\">Earn</span>\n          <span class=\"entries-count\">1199</span>\n          <span class=\"entries-label\">Entries</span>\n          <span class=\"multiplier\">5X</span>\n        </div>\n      </div>\n\n      <!-- 12-Month: 2339 entries, 5X -->\n      <div class=\"plan\">\n        <div class=\"plan-title\">12-Month<span>Prepaid</span></div>\n        <div class=\"plan-detail\">$38.99<span>/box</span></div>\n        <div class=\"plan-total\">$467.88<span> Total + s/h</span></div>\n        <a href=\"https://legendarybox.com/products/12-month-subscription-plan\" class=\"cta-button\">Join Now</a>\n        <div class=\"bonus-scoop\">Bonus Coffee Scoop!</div>\n        <div class=\"entries-badge\">\n          <span class=\"entries-label\">Earn</span>\n          <span class=\"entries-count\">2339</span>\n          <span class=\"entries-label\">Entries</span>\n          <span class=\"multiplier\">5X</span>\n        </div>\n      </div>\n    </div>\n\n    <div class=\"prepaid-gift-info\">\n      <div class=\"gift-text\">\n        New 3, 6, &amp; 12-month subscribers receive a FREE Caffeine &amp; Legends drink scoop/clip in their first box!\n      </div>\n      <img src=\"https://cdn.shopify.com/s/files/1/0305/4770/5900/files/Untitled_design_54.png?v=1738623166\" alt=\"Coffee Scoop\" class=\"scoop-thumb\" />\n    </div>\n  </div>\n</body>\n</html>",
+        "color_scheme": "scheme-3",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_jxUjbc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fa7rRJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pick up these member-favorites and earn more entries:",
+            "heading_size": "h1"
+          }
+        },
+        "text_ieDryb": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_cwQNNd": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_fa7rRJ",
+        "text_ieDryb",
+        "button_cwQNNd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_mpj7C6": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "sweeps",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_kC3xxQ": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n  <title>Caffeine and Legends Giveaway FAQs</title>\n  <style>\n    /* Caffeine and Legends Giveaway FAQ styles */\n    :root{\n      --sb-text:#101a2a;\n      --sb-muted:#4a5568;\n      --sb-line:#e2e6ea;\n      --sb-brand:#003366;\n      --sb-bg:#ffffff;\n      --sb-radius:14px;\n    }\n    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:#f5f6f8;color:var(--sb-text)}\n    .sb-wrap{max-width:960px;margin:40px auto;padding:0 16px}\n    .sb-title{font-size:clamp(24px,3vw,32px);font-weight:800;margin:0 0 14px}\n    .sb-sub{color:var(--sb-muted);margin:0 0 24px}\n    .sb-faq{--pad-x:20px;--pad-y:16px}\n    .sb-faq details{background:var(--sb-bg);border:1px solid var(--sb-line);border-radius:var(--sb-radius);margin:12px 0;overflow:hidden;transition:border-color .2s,box-shadow .2s}\n    .sb-faq details:focus-within{border-color:var(--sb-brand);box-shadow:0 0 0 3px rgba(0,51,102,.08)}\n    .sb-faq summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:12px;padding:var(--pad-y) var(--pad-x);font-weight:700;color:var(--sb-text)}\n    .sb-faq summary::-webkit-details-marker{display:none}\n    .sb-faq .sb-icon{margin-left:auto;font-size:22px;line-height:1;color:var(--sb-brand);transition:transform .2s ease}\n    .sb-faq details[open] .sb-icon{transform:rotate(45deg)} /* + turns into × */\n    .sb-faq .sb-a{padding:0 var(--pad-x) calc(var(--pad-y) + 2px);color:var(--sb-muted);line-height:1.6}\n    .sb-faq a{color:var(--sb-brand);text-decoration:underline}\n    @media (prefers-reduced-motion:reduce){\n      .sb-faq details,.sb-faq .sb-icon{transition:none}\n    }\n  </style>\n</head>\n<body>\n  <main class=\"sb-wrap\">\n    <h1 class=\"sb-title\">Caffeine and Legends Giveaway FAQs</h1>\n    <p class=\"sb-sub\">Have questions about entries, timing, or how the winner is picked? You’re in the right place.</p>\n\n    <section id=\"giveaway-faq\" class=\"sb-faq\" aria-label=\"Giveaway FAQs\">\n      <details>\n        <summary><span>How do I get entered?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Every dollar spent on <a href=\"https://legendarybox.com\" target=\"_blank\" rel=\"noopener\">legendarybox.com</a> during the times we are promoting the giveaway gets you entries to win!\n          You can also enter by mail — check out the <a href=\"https://sharedsweeps.com/rules\" target=\"_blank\" rel=\"noopener\">official rules</a> for details.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>How many entries do I have?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Entries are shown on each product page — so you always know what you're earning as you shop.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>When does the giveaway end?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          The giveaway ends on <strong>December 2, 2025</strong>.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>How is the winner contacted?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          The winner will be contacted directly on or around <strong>December 12, 2025</strong>.\n          We will never ask you for information or money to collect your prize.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>How do I claim my prize?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          After the winner is contacted, you will be able to choose the package or <strong>$100,000</strong>.\n          After you fill out the proper legal paperwork, which we will provide, you can make your decision.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>When is the winner announced?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          The winner will be announced on or around <strong>December 17, 2025</strong>.\n        </div>\n      </details>\n\n      <details>\n        <summary><span>Who is Shared Sweeps?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Shared Sweeps is a shared giveaway platform that partners with brands (like <strong>Caffeine and Legends</strong>) to enable their customers\n          to earn entries to the giveaway for purchasing on their site!\n        </div>\n      </details>\n\n      <details>\n        <summary><span>Is there a free method of entry?</span><span class=\"sb-icon\" aria-hidden=\"true\">+</span></summary>\n        <div class=\"sb-a\">\n          Yes! Please check the <a href=\"https://sharedsweeps.com/rules\" target=\"_blank\" rel=\"noopener\">official rules</a> for the details on the free method of entry.\n        </div>\n      </details>\n    </section>\n  </main>\n</body>\n</html>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_qUaRpi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_D4kM94": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_Tp8fTz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>NO PURCHASE NECESSARY. Ends 12/2/25. Must be: i) a legal US<br/>resident of the 50 US or DC and age of majority or ii) a legal resident of<br/>Canada (excl. Quebec) and age of majority at time of entry. Subject to<br/>Official Rules available at sharedsweeps.com/rules. Void where prohibited.<br/>Sponsored By Shared Sweeps</p>"
+          }
+        },
+        "button_VAEFz9": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_D4kM94",
+        "text_Tp8fTz",
+        "button_VAEFz9"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "rich_text_CcQ7xp",
+    "image_with_text_zx6ppU",
+    "multicolumn_4HRtWM",
+    "multicolumn_GTDwdU",
+    "custom_liquid_tqFUHz",
+    "rich_text_jxUjbc",
+    "featured_collection_mpj7C6",
+    "custom_liquid_kC3xxQ",
+    "rich_text_qUaRpi"
+  ]
+}
