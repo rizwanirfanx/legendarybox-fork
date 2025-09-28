@@ -24,7 +24,7 @@
         "heading_UzXPgD"
       ],
       "settings": {
-        "image": "shopify://shop_images/Title_13.png",
+        "image": "shopify://shop_images/Legendary_Access_1.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "bottom-center",
@@ -113,7 +113,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Title_1080_x_1080_px_5.png",
+        "image": "shopify://shop_images/Legendary_Access_3.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -161,7 +161,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Title_1080_x_1080_px_5.png",
+        "image": "shopify://shop_images/Legendary_Access_11.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -209,7 +209,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Title_1080_x_1080_px_5.png",
+        "image": "shopify://shop_images/Legendary_Access_8.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -257,7 +257,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Title_1080_x_1080_px_5.png",
+        "image": "shopify://shop_images/Legendary_Access_9.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -305,7 +305,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Title_1080_x_1080_px_5.png",
+        "image": "shopify://shop_images/Legendary_Access_13.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
