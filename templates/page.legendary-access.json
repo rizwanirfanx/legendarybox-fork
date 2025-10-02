@@ -416,9 +416,9 @@
         "collapsible_row_bE7g6R": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Where is the secret store?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Once you’re a member, you can access everything from the VIP dashboard as well as sign in directly to the shop. If you ever lose track, just message us—we’ll summon it back for you.</p>",
             "page": ""
           }
         },
