@@ -392,6 +392,68 @@
         "padding_bottom": 36
       }
     },
+    "collapsible_content_XecXq7": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_8Qk99C": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Legendary Access?",
+            "icon": "check_mark",
+            "row_content": "<p>Legendary Access is our VIP membership program for those who want to be part of the magic behind Caffeine & Legends. Members get monthly credits, voting power, exclusive content, secret shop perks, and more—basically, it’s where the real fun happens.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_X6mfcM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_bE7g6R": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_8hcd3P": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_8Qk99C",
+        "collapsible_row_X6mfcM",
+        "collapsible_row_bE7g6R",
+        "collapsible_row_8hcd3P"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_qUaRpi": {
       "type": "rich-text",
       "blocks": {
@@ -446,6 +508,7 @@
     "image_with_text_bzEViH",
     "rich_text_jxUjbc",
     "featured_collection_mpj7C6",
+    "collapsible_content_XecXq7",
     "rich_text_qUaRpi"
   ]
 }
