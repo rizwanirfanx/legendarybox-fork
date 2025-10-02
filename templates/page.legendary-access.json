@@ -422,6 +422,33 @@
             "page": ""
           }
         },
+        "collapsible_row_nXQUMA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I need to manually renew my membership?",
+            "icon": "check_mark",
+            "row_content": "<p>Nope! Your membership renews automatically—monthly or annually, depending on the plan you chose. You’ll get reminder emails just before each renewal in case you want to make changes.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cCFxMb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are Golden Ticket Giveaways?",
+            "icon": "check_mark",
+            "row_content": "<p>Each month, we randomly select one VIP member to receive a <strong>bonus surprise item</strong> in their next box. No action required—you’re entered just by being a member.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_zkHxnP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I join the Facebook group?",
+            "icon": "check_mark",
+            "row_content": "<p>You’ll get an invitation link in your welcome email as well as access through the dashboard. It’s a private group just for VIPs, so make sure to join using the same email tied to your subscription so we can verify you. Once you're in, you're in.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_8hcd3P": {
           "type": "collapsible_row",
           "settings": {
@@ -430,13 +457,26 @@
             "row_content": "<p>Inside the <strong>Legendary Access Facebook group</strong>, we post polls and discussion threads where you can help shape future boxes—books, drinks, bonus items, and more.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_gq6jz9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Who do I contact if I have a question?",
+            "icon": "check_mark",
+            "row_content": "<p>You can always email us at or post in the VIP Facebook group and tag us. We’re always happy to help.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_8Qk99C",
         "collapsible_row_X6mfcM",
         "collapsible_row_bE7g6R",
-        "collapsible_row_8hcd3P"
+        "collapsible_row_nXQUMA",
+        "collapsible_row_cCFxMb",
+        "collapsible_row_zkHxnP",
+        "collapsible_row_8hcd3P",
+        "collapsible_row_gq6jz9"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
