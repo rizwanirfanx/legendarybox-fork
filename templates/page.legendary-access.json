@@ -407,9 +407,9 @@
         "collapsible_row_X6mfcM": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How do the $10 credits work?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Each month, you’ll receive <strong>$10 in VIP credits</strong> to use in our <strong>secret members-only store </strong>(as well as site wide). Think first dibs on event boxes, limited items, and surprise drops at exclusive prices.  <strong>Heads up:</strong> credits expire after <strong>30 days</strong>, so be sure to use them before they vanish like a friendly ghost.<br/><br/></p>",
             "page": ""
           }
         },
