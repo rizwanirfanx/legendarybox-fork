@@ -235,6 +235,11 @@
         "type": "shopify://apps/gsc-instagram-feed/blocks/embed/96970b1b-b770-454f-b16b-51f47e1aa4ed",
         "disabled": false,
         "settings": {}
+      },
+      "14591349720731162389": {
+        "type": "shopify://apps/koin/blocks/app-embed/02895843-ca31-4ee5-82a1-bfd81a36a58d",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
