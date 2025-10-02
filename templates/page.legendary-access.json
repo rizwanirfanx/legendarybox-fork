@@ -425,9 +425,9 @@
         "collapsible_row_8hcd3P": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Where do I vote on upcoming books and items?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Inside the <strong>Legendary Access Facebook group</strong>, we post polls and discussion threads where you can help shape future boxes—books, drinks, bonus items, and more.</p>",
             "page": ""
           }
         }
