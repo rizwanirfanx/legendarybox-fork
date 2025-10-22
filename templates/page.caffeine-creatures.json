@@ -23,21 +23,21 @@
         "heading_fc6YqQ": {
           "type": "heading",
           "settings": {
-            "heading": "The Creatures Are Stirring",
+            "heading": "Join the Caffeine  & Creatures Pin Club",
             "heading_size": "h1"
           }
         },
         "text_eDjMjB": {
           "type": "text",
           "settings": {
-            "text": "Each month, a new mythical being emerges - revealed through collectible enamel pins, trading cards, and stories brewed in the world of Caffeine & Creatures.",
+            "text": "Caffeine-fueled Monsters. Spirits steeped in ritual. Legends dusted with cocoa. Collect them all  - one pin, one story, one brew at a time.",
             "text_style": "body"
           }
         },
         "buttons_zPwb9T": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Join The Pin Club",
+            "button_label_1": "Subscribe Now",
             "button_link_1": "shopify://collections",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -72,14 +72,14 @@
         "heading_npB7Vn": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "What's the Pin Club?",
             "heading_size": "h1"
           }
         },
         "text_FAKJPN": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>The <strong>Caffeine & Creatures Pin Club</strong> is a monthly fantasy experience for those who find magic between pages and warmth in every cup. Each month unveils a new creature inspired by coffee, tea, or drinking chocolate — brought to life through an enamel pin, lore card, and story. A collector’s ritual for readers who dream of worlds just beyond the steam.</p>",
             "text_style": "body"
           }
         },
