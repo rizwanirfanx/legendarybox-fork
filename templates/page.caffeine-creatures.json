@@ -23,24 +23,24 @@
         "heading_fc6YqQ": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "The Creatures Are Stirring",
             "heading_size": "h1"
           }
         },
         "text_eDjMjB": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Each month, a new mythical being emerges - revealed through collectible enamel pins, trading cards, and stories brewed in the world of Caffeine & Creatures.",
             "text_style": "body"
           }
         },
         "buttons_zPwb9T": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Join The Pin Club",
+            "button_link_1": "shopify://collections",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -53,8 +53,9 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
+        "image": "shopify://shop_images/Gemini_Generated_Image_uavghiuavghiuavg.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -64,10 +65,116 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "image_with_text_BrCJRh": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_npB7Vn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_FAKJPN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_6zKfpG": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_npB7Vn",
+        "text_FAKJPN",
+        "button_6zKfpG"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/image_5.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_6eaVpU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_mwFUDK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_1080_x_600_px_5.png",
+            "title": "Subscribe.",
+            "text": "<p>Pick your plan and select your drink preference. Choose coffee, tea, or drinking chocolate to enjoy while you dive into your new read.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tYBxHi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_1080_x_600_px_3.png",
+            "title": "Receive.",
+            "text": "<p>Boxes ship between the 1st-7th of each month, and feature a book, drink, and extras that are inspired by the book of the month.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eyzerD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_1080_x_600_px_2.png",
+            "title": "Explore.",
+            "text": "<p>Sip, read, and relax with your new book! Build the perfect library, savor new flavors, and connect with authors like never before.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_mwFUDK",
+        "column_tYBxHi",
+        "column_eyzerD"
+      ],
+      "settings": {
+        "title": "How It Works...",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "SUBSCRIBE NOW",
+        "button_link": "#plan-selector",
+        "color_scheme": "scheme-3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_f9CYMY"
+    "image_banner_f9CYMY",
+    "image_with_text_BrCJRh",
+    "multicolumn_6eaVpU"
   ]
 }
