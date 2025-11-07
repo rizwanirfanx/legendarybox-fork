@@ -224,14 +224,14 @@
         "heading_nGr8Ad": {
           "type": "heading",
           "settings": {
-            "heading": "November Theme: A Seat At The Table",
+            "heading": "December Theme: Of Vengeance And Valor",
             "heading_size": "h1"
           }
         },
         "text_G8jrHt": {
           "type": "text",
           "settings": {
-            "text": "<p></p><p>Subscriptions are currently OPEN for November.</p><p>November <em>boxes will ship November 3</em>-7th<em>.</em></p><p>We focus on high quality full size selections of coffee, tea & drinking chocolate paired with your book, plus a fun extra bonus item each month!</p><p></p><p><strong>As seen on USA Today's 10 Best List</strong></p><p></p>",
+            "text": "<p></p><p>Subscriptions are currently OPEN for December.</p><p>December <em>boxes will ship December 1</em>-8th<em>.</em></p><p>We focus on high quality full size selections of coffee, tea & drinking chocolate paired with your book, plus a fun extra bonus item each month!</p><p></p><p><strong>As seen on USA Today's 10 Best List</strong></p><p></p>",
             "text_style": "body"
           }
         },
@@ -250,7 +250,7 @@
         "button_dbfGhU"
       ],
       "settings": {
-        "image": "shopify://shop_images/Theme_Ideas_33.png",
+        "image": "shopify://shop_images/ThemeIdeas_42.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
