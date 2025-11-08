@@ -149,7 +149,7 @@
           "type": "button",
           "settings": {
             "button_label": "Send Six Months of Boxes",
-            "button_link": "shopify://collections/secret-shop-vip-members-only",
+            "button_link": "shopify://products/6-month-subscription-plan",
             "button_style_secondary": false
           }
         }
@@ -326,7 +326,7 @@
         "heading_fa7rRJ": {
           "type": "heading",
           "settings": {
-            "heading": "New Secret Shop Finds",
+            "heading": "Quick Gifts!",
             "heading_size": "h1"
           }
         },
@@ -425,9 +425,9 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Title_1080_x_1080_px_5.png",
+        "image": "shopify://shop_images/Title_1080_x_1080_px_5_871b5321-77b0-4f05-bd98-4813ad98c534.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
