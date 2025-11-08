@@ -148,7 +148,7 @@
         "button_Uy9gh6": {
           "type": "button",
           "settings": {
-            "button_label": "Send a 6-Month Subscription",
+            "button_label": "Send Six Months of Boxes",
             "button_link": "shopify://collections/secret-shop-vip-members-only",
             "button_style_secondary": false
           }
@@ -189,15 +189,15 @@
         "text_Y8rgR3": {
           "type": "text",
           "settings": {
-            "text": "<p>As a Legendary Access member, you’ll receive a $10 credit on your renewal date each month. These credits can be applied toward the Secret Shop or any one-time orders, and the option to apply them will appear automatically at checkout when you’re logged in. Each credit expires 30 days after it’s issued.</p>",
+            "text": "<p>Give (or get) a single month of literary comfort with our <strong>November Caffeine & Legends Box: </strong><em><strong>A Seat at the Table.</strong></em> This one-time purchase includes the full November experience — a fantasy tale of second chances, community, and the quiet power of love and food — along with your choice of tea, coffee, or drinking chocolate to savor as you read. Inside you’ll also find a <strong>paperback edition</strong>, <strong>author letter</strong>, and <strong>exclusive playlist</strong> to bring the world of the story to life.</p>",
             "text_style": "body"
           }
         },
         "button_LVkKC6": {
           "type": "button",
           "settings": {
-            "button_label": "Browse the Secret Shop",
-            "button_link": "shopify://collections/secret-shop-vip-members-only",
+            "button_label": "Get a November Box",
+            "button_link": "shopify://products/november-one-time-box-25",
             "button_style_secondary": false
           }
         }
@@ -209,7 +209,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Legendary_Access_16.png",
+        "image": "shopify://shop_images/Theme_Ideas_34.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -237,7 +237,7 @@
         "text_AxRLkB": {
           "type": "text",
           "settings": {
-            "text": "<p>Each month, one Legendary Access member will be randomly selected to receive a special surprise tucked inside their box. From exclusive collectibles to bonus gear, it’s our way of adding a little extra magic to your membership—because you never know when it might be your month to win.</p>",
+            "text": "<p>Craving a little surprise with your next cozy read? Our <strong>Mystery Boxes</strong> are the perfect way to treat yourself—or someone else—to a spontaneous literary adventure. Each one is a date with the unknown, packed and ready to ship with handpicked bookish treasures.</p><p><strong>Each Mystery Box Includes:</strong></p><ul><li><strong>1 Book</strong> — a hidden gem from our vault of fantastical reads<br/></li><li><strong>Your choice of Coffee, Tea, or Drinking Chocolate</strong><br/></li><li><strong>1 Additional Surprise Item</strong> — trust us, it’s a good one</li></ul>",
             "text_style": "body"
           }
         },
