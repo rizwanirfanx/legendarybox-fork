@@ -134,21 +134,21 @@
         "heading_gC4F6B": {
           "type": "heading",
           "settings": {
-            "heading": "Secret Shop",
+            "heading": "Gift a Caffeine & Legends Subscription",
             "heading_size": "h1"
           }
         },
         "text_HCW4JB": {
           "type": "text",
           "settings": {
-            "text": "<p>You now have access to the Secret Shop, your exclusive members-only marketplace. Here, you’ll find rare past drops, limited-edition items, and special perks and discounts that aren’t available anywhere else. Think of it as your hidden vault of treasures, unlocked only by being part of Legendary Access. Inventory is always rotating, so check back often...you never know what legendary finds will appear next.</p>",
+            "text": "<p>Give the gift of cozy reading adventures that last all season long. With the <strong>Six-Month Prepaid Gift</strong>, your recipient will receive <strong>six consecutive boxes</strong>, each filled with a new fantasy book, a carefully paired beverage, and magical surprises from small makers.</p><p>You’ll <strong>pay once upfront</strong>, and the subscription will <strong>automatically end after six months</strong> — no renewals, no reminders, just pure reading joy delivered straight to their door. It’s the perfect way to share half a year of stories, comfort, and caffeine-fueled wonder.<br/><br/>Starting at $251.94 + S/h</p>",
             "text_style": "body"
           }
         },
         "button_Uy9gh6": {
           "type": "button",
           "settings": {
-            "button_label": "Browse the Secret Shop",
+            "button_label": "Send a 6-Month Subscription",
             "button_link": "shopify://collections/secret-shop-vip-members-only",
             "button_style_secondary": false
           }
@@ -182,7 +182,7 @@
         "heading_BaPCVM": {
           "type": "heading",
           "settings": {
-            "heading": "Monthly Credit",
+            "heading": "November One-Time Box",
             "heading_size": "h1"
           }
         },
@@ -230,7 +230,7 @@
         "heading_rawEhB": {
           "type": "heading",
           "settings": {
-            "heading": "Monthly Giveaway",
+            "heading": "Mystery Box",
             "heading_size": "h1"
           }
         },
@@ -302,6 +302,54 @@
         "heading_YnRqw3",
         "text_pXxg3j",
         "button_rT7Xjw"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Legendary_Access_13.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_43bFUG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3HQbE8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gift Cards",
+            "heading_size": "h1"
+          }
+        },
+        "text_nnFFJL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As a Legendary Access member, you’ll unlock monthly live Q&A sessions with authors, publishers, influencers, and small business owners who help bring our boxes to life. Alongside these VIP experiences, you’ll also enjoy insider access through our members-only newsletter, filled with exclusive content, sneak peeks, and early reveals. All of these opportunities will be announced in the members-only group and featured in the newsletter, so you’ll never miss a chance to take part.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_jPNnzB": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "shopify://collections/secret-shop-vip-members-only",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3HQbE8",
+        "text_nnFFJL",
+        "button_jPNnzB"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -392,108 +440,6 @@
         "padding_bottom": 36
       }
     },
-    "collapsible_content_XecXq7": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_8Qk99C": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is Legendary Access?",
-            "icon": "check_mark",
-            "row_content": "<p>Legendary Access is our VIP membership program for those who want to be part of the magic behind Caffeine & Legends. Members get monthly credits, voting power, exclusive content, secret shop perks, and more—basically, it’s where the real fun happens.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_X6mfcM": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How do the $10 credits work?",
-            "icon": "check_mark",
-            "row_content": "<p>Each month, you’ll receive <strong>$10 in VIP credits</strong> to use in our <strong>secret members-only store </strong>(as well as site wide). Think first dibs on event boxes, limited items, and surprise drops at exclusive prices.  <strong>Heads up:</strong> credits expire after <strong>30 days</strong>, so be sure to use them before they vanish like a friendly ghost.<br/><br/></p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_bE7g6R": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Where is the secret store?",
-            "icon": "check_mark",
-            "row_content": "<p>Once you’re a member, you can access everything from the VIP dashboard as well as sign in directly to the shop. If you ever lose track, just message us—we’ll summon it back for you.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_nXQUMA": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Do I need to manually renew my membership?",
-            "icon": "check_mark",
-            "row_content": "<p>Nope! Your membership renews automatically—monthly or annually, depending on the plan you chose. You’ll get reminder emails just before each renewal in case you want to make changes.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_cCFxMb": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What are Golden Ticket Giveaways?",
-            "icon": "check_mark",
-            "row_content": "<p>Each month, we randomly select one VIP member to receive a <strong>bonus surprise item</strong> in their next box. No action required—you’re entered just by being a member.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_zkHxnP": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How do I join the Facebook group?",
-            "icon": "check_mark",
-            "row_content": "<p>You’ll get an invitation link in your welcome email as well as access through the dashboard. It’s a private group just for VIPs, so make sure to join using the same email tied to your subscription so we can verify you. Once you're in, you're in.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_8hcd3P": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Where do I vote on upcoming books and items?",
-            "icon": "check_mark",
-            "row_content": "<p>Inside the <strong>Legendary Access Facebook group</strong>, we post polls and discussion threads where you can help shape future boxes—books, drinks, bonus items, and more.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_gq6jz9": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Who do I contact if I have a question?",
-            "icon": "check_mark",
-            "row_content": "<p>You can always email us at or post in the VIP Facebook group and tag us. We’re always happy to help.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_8Qk99C",
-        "collapsible_row_X6mfcM",
-        "collapsible_row_bE7g6R",
-        "collapsible_row_nXQUMA",
-        "collapsible_row_cCFxMb",
-        "collapsible_row_zkHxnP",
-        "collapsible_row_8hcd3P",
-        "collapsible_row_gq6jz9"
-      ],
-      "name": "t:sections.collapsible_content.presets.name",
-      "settings": {
-        "caption": "",
-        "heading": "FAQ",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "rich_text_qUaRpi": {
       "type": "rich-text",
       "blocks": {
@@ -546,9 +492,9 @@
     "image_with_text_3NLYeV",
     "image_with_text_HhwBak",
     "image_with_text_bzEViH",
+    "image_with_text_43bFUG",
     "rich_text_jxUjbc",
     "featured_collection_mpj7C6",
-    "collapsible_content_XecXq7",
     "rich_text_qUaRpi"
   ]
 }
