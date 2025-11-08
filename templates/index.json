@@ -190,7 +190,7 @@
         "button_qjRhmU": {
           "type": "button",
           "settings": {
-            "button_label": "LEARN MORE",
+            "button_label": "",
             "button_link": "shopify://pages/sweepstakes",
             "button_style_secondary": false
           }
@@ -203,7 +203,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Title_1080_x_1080_px_5.png",
+        "image": "shopify://shop_images/Title_1080_x_1080_px_5_871b5321-77b0-4f05-bd98-4813ad98c534.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

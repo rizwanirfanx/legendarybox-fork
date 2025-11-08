@@ -163,7 +163,7 @@
       "settings": {
         "image": "shopify://shop_images/Legendary_Access_11.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -211,7 +211,7 @@
       "settings": {
         "image": "shopify://shop_images/Theme_Ideas_34.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -259,7 +259,7 @@
       "settings": {
         "image": "shopify://shop_images/Legendary_Access_17.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -285,7 +285,7 @@
         "text_nnFFJL": {
           "type": "text",
           "settings": {
-            "text": "<p>As a Legendary Access member, you’ll unlock monthly live Q&A sessions with authors, publishers, influencers, and small business owners who help bring our boxes to life. Alongside these VIP experiences, you’ll also enjoy insider access through our members-only newsletter, filled with exclusive content, sneak peeks, and early reveals. All of these opportunities will be announced in the members-only group and featured in the newsletter, so you’ll never miss a chance to take part.</p>",
+            "text": "<p>Need a fun gift for a caffeine loving someone? Let them choose, with a Caffeine & Legends gift card!</p>",
             "text_style": "body"
           }
         },
@@ -307,7 +307,7 @@
       "settings": {
         "image": "shopify://shop_images/Legendary_Access_13.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -427,7 +427,7 @@
       "settings": {
         "image": "shopify://shop_images/Title_1080_x_1080_px_5.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
