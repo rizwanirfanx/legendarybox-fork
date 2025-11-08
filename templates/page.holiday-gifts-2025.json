@@ -211,7 +211,7 @@
       "settings": {
         "image": "shopify://shop_images/Theme_Ideas_34.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -244,8 +244,8 @@
         "button_Q4wqGn": {
           "type": "button",
           "settings": {
-            "button_label": "",
-            "button_link": "shopify://collections/secret-shop-vip-members-only",
+            "button_label": "Gift a Mystery Box",
+            "button_link": "shopify://products/mystery-box",
             "button_style_secondary": false
           }
         }
@@ -257,9 +257,9 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Legendary_Access_17.png",
+        "image": "shopify://shop_images/BrownFeminineFashionMysteryBoxInstagramPost.webp",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
