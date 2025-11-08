@@ -43,7 +43,7 @@
         "heading_iyRJtt": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Welcome to the Inner Circle - unlock your exclusive benefits:</strong>",
+            "heading": "<strong>Holiday Gifts for Book Lovers</strong>",
             "heading_size": "h2"
           }
         },
@@ -86,22 +86,22 @@
         "heading_qJdpY8": {
           "type": "heading",
           "settings": {
-            "heading": "Legendary Access Member Group",
+            "heading": "Winter's Reverie - 2025 Holiday Box",
             "heading_size": "h1"
           }
         },
         "text_z4NDTW": {
           "type": "text",
           "settings": {
-            "text": "<p> This is your hub for voting, connecting, and secret content drops. This group is where we share early sneak peeks, vote on upcoming box picks, and nerd out about all things fantasy, books, and brews. You’ll find behind-the-scenes updates, secret shop drops, and the occasional magical surprise. More than anything, it’s a cozy little corner for people who love stories and want to be part of shaping the adventure.</p>",
+            "text": "<p>Step into the season’s magic with <em>Winter’s Reverie</em>—our most enchanting holiday box yet. Inspired by cozy winter nights and timeless tales, this beautifully curated collection includes a signed hardcover novel, three indulgent winter drinks (tea, drinking chocolate, and coffee), and handpicked treasures from small makers across the U.S. Each item is chosen to warm the spirit, spark wonder, and invite calm amid the season’s bustle. Thoughtfully packed as one stunning presentation, it’s a gift to be unwrapped and savored at your own pace—all the charm of our classic advent box, with a touch more magic.</p><p></p><p><strong>Only 100 Remaining!</strong></p>",
             "text_style": "body"
           }
         },
         "button_G7eMEw": {
           "type": "button",
           "settings": {
-            "button_label": "Join The Group",
-            "button_link": "https://www.facebook.com/groups/legendaryaccess",
+            "button_label": "GET THE HOLIDAY BOX",
+            "button_link": "shopify://products/winters-reverie",
             "button_style_secondary": false
           }
         }
@@ -113,7 +113,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Legendary_Access_14.png",
+        "image": "shopify://shop_images/ThemeIdeas_36.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
