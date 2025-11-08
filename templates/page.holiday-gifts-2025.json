@@ -134,7 +134,7 @@
         "heading_gC4F6B": {
           "type": "heading",
           "settings": {
-            "heading": "Gift a Caffeine & Legends Subscription",
+            "heading": "Gift a Caffeine & Legends Membership",
             "heading_size": "h1"
           }
         },
@@ -272,54 +272,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_bzEViH": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_YnRqw3": {
-          "type": "heading",
-          "settings": {
-            "heading": "Behind the Scenes Events",
-            "heading_size": "h1"
-          }
-        },
-        "text_pXxg3j": {
-          "type": "text",
-          "settings": {
-            "text": "<p>As a Legendary Access member, you’ll unlock monthly live Q&A sessions with authors, publishers, influencers, and small business owners who help bring our boxes to life. Alongside these VIP experiences, you’ll also enjoy insider access through our members-only newsletter, filled with exclusive content, sneak peeks, and early reveals. All of these opportunities will be announced in the members-only group and featured in the newsletter, so you’ll never miss a chance to take part.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_rT7Xjw": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "shopify://collections/secret-shop-vip-members-only",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_YnRqw3",
-        "text_pXxg3j",
-        "button_rT7Xjw"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Legendary_Access_13.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_43bFUG": {
       "type": "image-with-text",
       "blocks": {
@@ -440,6 +392,54 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_bz6KQU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_PdhDqJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "How the Dream Library Giveaway Works",
+            "heading_size": "h1"
+          }
+        },
+        "text_tUzcj6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every purchase or subscription renewal with Caffeine & Legends between <strong>September 5th and December 2nd, 2025</strong> earns you entries into our <strong>$100K Dream Library Makeover Giveaway </strong>in partnership with Shared Sweeps. ✨📚 One lucky winner will be chosen at random across all participating brands — and if they entered through Caffeine & Legends, they’ll take home our grand prize: a $100,000 Dream Library Glow-Up.<br/></p>",
+            "text_style": "body"
+          }
+        },
+        "button_g3XxTk": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "shopify://pages/sweepstakes",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PdhDqJ",
+        "text_tUzcj6",
+        "button_g3XxTk"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Title_1080_x_1080_px_5.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_qUaRpi": {
       "type": "rich-text",
       "blocks": {
@@ -491,10 +491,10 @@
     "image_with_text_A6BCcM",
     "image_with_text_3NLYeV",
     "image_with_text_HhwBak",
-    "image_with_text_bzEViH",
     "image_with_text_43bFUG",
     "rich_text_jxUjbc",
     "featured_collection_mpj7C6",
+    "image_with_text_bz6KQU",
     "rich_text_qUaRpi"
   ]
 }
