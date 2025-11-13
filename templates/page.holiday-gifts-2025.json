@@ -233,6 +233,15 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_Q3Np3Q": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div data-fera-widget='testimonial_carousel' data-fera-id='fwid_32faaQ4'></div>",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "custom_liquid_YiwKaL": {
       "type": "custom-liquid",
       "disabled": true,
@@ -558,6 +567,7 @@
     "image_with_text_A6BCcM",
     "rich_text_jkgYd3",
     "custom_liquid_fQkhmM",
+    "custom_liquid_Q3Np3Q",
     "custom_liquid_YiwKaL",
     "image_with_text_3NLYeV",
     "image_with_text_HhwBak",
