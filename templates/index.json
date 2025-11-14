@@ -33,7 +33,7 @@
             "button_link_1": "#plan-selector",
             "button_style_secondary_1": false,
             "button_label_2": "GIVE AS A GIFT",
-            "button_link_2": "#plan-selector",
+            "button_link_2": "shopify://pages/holiday-gifts-2025",
             "button_style_secondary_2": true
           }
         }
