@@ -27,11 +27,19 @@
             "text": "Win a $100K Dream Library Makeover — Every Purchase is an Entry",
             "link": "shopify://pages/sweepstakes"
           }
+        },
+        "announcement_UQ8wpd": {
+          "type": "announcement",
+          "settings": {
+            "text": "Our Holiday Gift Guide Is Here!",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_qGgnDX"
+        "announcement_qGgnDX",
+        "announcement_UQ8wpd"
       ],
       "settings": {
         "color_scheme": "scheme-5",
