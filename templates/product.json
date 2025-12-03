@@ -132,49 +132,6 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "rich_text_QG3rV7": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_6aw6dR": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_hCqP4z": {
-          "type": "text",
-          "settings": {
-            "text": "<p>NO PURCHASE NECESSARY. Ends 12/2/25. Must be: i) a legal US<br/>resident of the 50 US or DC and age of majority or ii) a legal resident of<br/>Canada (excl. Quebec) and age of majority at time of entry. Subject to<br/>Official Rules available at sharedsweeps.com/rules. Void where prohibited.<br/>Sponsored By Shared Sweeps</p>"
-          }
-        },
-        "button_kf8LUf": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_6aw6dR",
-        "text_hCqP4z",
-        "button_kf8LUf"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -182,7 +139,6 @@
     "related-products",
     "17371328698aa01dd4",
     "17371328801ec63dcf",
-    "1737132894740dd47d",
-    "rich_text_QG3rV7"
+    "1737132894740dd47d"
   ]
 }

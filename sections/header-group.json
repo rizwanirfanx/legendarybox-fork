@@ -21,13 +21,6 @@
             "link": "shopify://collections/monthly-boxes"
           }
         },
-        "announcement_qGgnDX": {
-          "type": "announcement",
-          "settings": {
-            "text": "Win a $100K Dream Library Makeover — Every Purchase is an Entry",
-            "link": "shopify://pages/sweepstakes"
-          }
-        },
         "announcement_UQ8wpd": {
           "type": "announcement",
           "settings": {
@@ -38,7 +31,6 @@
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_qGgnDX",
         "announcement_UQ8wpd"
       ],
       "settings": {
