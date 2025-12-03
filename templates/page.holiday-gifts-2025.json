@@ -467,97 +467,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_with_text_bz6KQU": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_PdhDqJ": {
-          "type": "heading",
-          "settings": {
-            "heading": "How the Dream Library Giveaway Works",
-            "heading_size": "h1"
-          }
-        },
-        "text_tUzcj6": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Every purchase or subscription renewal with Caffeine & Legends between <strong>September 5th and December 2nd, 2025</strong> earns you entries into our <strong>$100K Dream Library Makeover Giveaway </strong>in partnership with Shared Sweeps. ✨📚 One lucky winner will be chosen at random across all participating brands — and if they entered through Caffeine & Legends, they’ll take home our grand prize: a $100,000 Dream Library Glow-Up.<br/></p>",
-            "text_style": "body"
-          }
-        },
-        "button_g3XxTk": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "shopify://pages/sweepstakes",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_PdhDqJ",
-        "text_tUzcj6",
-        "button_g3XxTk"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Title_1080_x_1080_px_5_871b5321-77b0-4f05-bd98-4813ad98c534.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_qUaRpi": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_D4kM94": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_Tp8fTz": {
-          "type": "text",
-          "settings": {
-            "text": "<p>NO PURCHASE NECESSARY. Ends 12/2/25. Must be: i) a legal US<br/>resident of the 50 US or DC and age of majority or ii) a legal resident of<br/>Canada (excl. Quebec) and age of majority at time of entry. Subject to<br/>Official Rules available at sharedsweeps.com/rules. Void where prohibited.<br/>Sponsored By Shared Sweeps</p>"
-          }
-        },
-        "button_VAEFz9": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_D4kM94",
-        "text_Tp8fTz",
-        "button_VAEFz9"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -573,8 +482,6 @@
     "image_with_text_HhwBak",
     "image_with_text_43bFUG",
     "rich_text_jxUjbc",
-    "featured_collection_mpj7C6",
-    "image_with_text_bz6KQU",
-    "rich_text_qUaRpi"
+    "featured_collection_mpj7C6"
   ]
 }
