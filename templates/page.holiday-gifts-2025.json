@@ -83,54 +83,6 @@
         "padding_bottom": 32
       }
     },
-    "image_with_text_zx6ppU": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_qJdpY8": {
-          "type": "heading",
-          "settings": {
-            "heading": "Winter's Reverie - 2025 Holiday Box",
-            "heading_size": "h1"
-          }
-        },
-        "text_z4NDTW": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Step into the season’s magic with <em>Winter’s Reverie</em>—our most enchanting holiday box yet. Inspired by cozy winter nights and timeless tales, this beautifully curated collection includes a signed hardcover, three cozy winter drinks (tea, drinking chocolate, and coffee), and handpicked treasures from small makers across the U.S. Each item is chosen to warm the spirit and brink a little more magic to to the season. Thoughtfully curated and carefully packaged to bring maximum bookish delight right to your doorstep. </p><p></p><p><strong>These sell out every year - get yours now!</strong></p>",
-            "text_style": "body"
-          }
-        },
-        "button_G7eMEw": {
-          "type": "button",
-          "settings": {
-            "button_label": "GET THE HOLIDAY BOX",
-            "button_link": "shopify://products/winters-reverie",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_qJdpY8",
-        "text_z4NDTW",
-        "button_G7eMEw"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/ThemeIdeas_36.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_A6BCcM": {
       "type": "image-with-text",
       "blocks": {
@@ -250,54 +202,6 @@
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "image_with_text_3NLYeV": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_BaPCVM": {
-          "type": "heading",
-          "settings": {
-            "heading": "November One-Time Box",
-            "heading_size": "h1"
-          }
-        },
-        "text_Y8rgR3": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Give (or get) a single month of literary comfort with our <strong>November Caffeine & Legends Box: </strong><em><strong>A Seat at the Table.</strong></em> This one-time purchase includes the full November experience — a fantasy tale of second chances, community, and the quiet power of love and food — along with your choice of tea, coffee, or drinking chocolate to savor as you read. Inside you’ll also find a <strong>paperback edition</strong>, <strong>author letter</strong>, and <strong>exclusive playlist</strong> to bring the world of the story to life.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_LVkKC6": {
-          "type": "button",
-          "settings": {
-            "button_label": "Get a November Box",
-            "button_link": "shopify://products/november-one-time-box-25",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_BaPCVM",
-        "text_Y8rgR3",
-        "button_LVkKC6"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Theme_Ideas_34.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-3",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "image_with_text_HhwBak": {
@@ -472,13 +376,11 @@
   "order": [
     "hero",
     "rich_text_CcQ7xp",
-    "image_with_text_zx6ppU",
     "image_with_text_A6BCcM",
     "rich_text_jkgYd3",
     "custom_liquid_fQkhmM",
     "custom_liquid_Q3Np3Q",
     "custom_liquid_YiwKaL",
-    "image_with_text_3NLYeV",
     "image_with_text_HhwBak",
     "image_with_text_43bFUG",
     "rich_text_jxUjbc",
