@@ -20,18 +20,10 @@
             "text": "January Theme: Mythos & Mortals [Ships January 2-9th]",
             "link": "shopify://collections/monthly-boxes"
           }
-        },
-        "announcement_UQ8wpd": {
-          "type": "announcement",
-          "settings": {
-            "text": "Our Holiday Gift Guide Is Here!",
-            "link": "https://legendarybox.com/pages/holiday-gifts-2025"
-          }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "announcement_UQ8wpd"
+        "announcement-bar-0"
       ],
       "settings": {
         "color_scheme": "scheme-5",
