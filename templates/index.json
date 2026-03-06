@@ -176,14 +176,14 @@
         "heading_nGr8Ad": {
           "type": "heading",
           "settings": {
-            "heading": "March Theme: Arcane Frequencies",
+            "heading": "April Theme: Unearthed",
             "heading_size": "h1"
           }
         },
         "text_G8jrHt": {
           "type": "text",
           "settings": {
-            "text": "<p></p><p>Subscriptions are currently OPEN for March.</p><p>March <em>boxes will ship March 1</em>-9th<em>.</em></p><p>We focus on high quality full size selections of coffee, tea & drinking chocolate paired with your book, plus a fun extra bonus item each month!</p><p></p><p><strong>As seen on USA Today's 10 Best List</strong></p><p></p>",
+            "text": "<p></p><p>Subscriptions are currently OPEN for April.</p><p>April <em>boxes will ship April 1</em>-9th<em>.</em></p><p>We focus on high quality full size selections of coffee, tea & drinking chocolate paired with your book, plus a fun extra bonus item each month!</p><p></p><p><strong>As seen on USA Today's 10 Best List</strong></p><p></p>",
             "text_style": "body"
           }
         },
@@ -202,7 +202,7 @@
         "button_dbfGhU"
       ],
       "settings": {
-        "image": "shopify://shop_images/Theme_Ideas_57.png",
+        "image": "shopify://shop_images/Theme_Ideas_63.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
