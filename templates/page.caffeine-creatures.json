@@ -79,7 +79,7 @@
         "text_j36tqB": {
           "type": "text",
           "settings": {
-            "text": "<p>Every month you'll receive:</p><p>• A <strong>new enamel creature pin</strong><br/>• A <strong>collectible illustrated trading card</strong><br/>• A new <strong>field journal entry</strong> documenting the creature</p><p>Each release expands the story and the world.</p>",
+            "text": "<p>Every month you'll receive:</p><p>🐉 <strong>Creature Pin: </strong></p><p>A collectible enamel pin featuring a newly discovered creature.</p><p>🎴 <strong>Trading Card: </strong></p><p>Illustrated field journal card documenting the creature.</p><p>✍️ <strong>Archive Entry: </strong></p><p>Each release expands the growing archive of creatures.</p>",
             "text_style": "body"
           }
         },
@@ -87,7 +87,7 @@
           "type": "button",
           "settings": {
             "button_label": "JOIN NOW",
-            "button_link": "",
+            "button_link": "shopify://products/caffeine-creatures-enamel-pin-subscription",
             "button_style_secondary": false
           }
         }
