@@ -23,14 +23,14 @@
         "heading_fc6YqQ": {
           "type": "heading",
           "settings": {
-            "heading": "Join the Caffeine  & Creatures Pin Club",
+            "heading": "Caffeine  & Creatures Pin Club",
             "heading_size": "h1"
           }
         },
         "text_eDjMjB": {
           "type": "text",
           "settings": {
-            "text": "Caffeine-fueled Monsters. Spirits steeped in ritual. Legends dusted with cocoa. Collect them all  - one pin, one story, one brew at a time.",
+            "text": "A monthly enamel pin series documenting strange beings discovered across the Caffeine & Creatures world.",
             "text_style": "body"
           }
         },
@@ -66,20 +66,68 @@
         "show_text_below": true
       }
     },
+    "image_with_text_UUHgbe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HHzwyn": {
+          "type": "heading",
+          "settings": {
+            "heading": "What Members Receive",
+            "heading_size": "h1"
+          }
+        },
+        "text_j36tqB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every month you'll receive:</p><p>• A <strong>new enamel creature pin</strong><br/>• A <strong>collectible illustrated trading card</strong><br/>• A new <strong>field journal entry</strong> documenting the creature</p><p>Each release expands the story and the world.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_9XXJbd": {
+          "type": "button",
+          "settings": {
+            "button_label": "JOIN NOW",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HHzwyn",
+        "text_j36tqB",
+        "button_9XXJbd"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Untitled_design_22.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_BrCJRh": {
       "type": "image-with-text",
       "blocks": {
         "heading_npB7Vn": {
           "type": "heading",
           "settings": {
-            "heading": "What's the Pin Club?",
+            "heading": "<strong>An Archive of Strange Creatures</strong>",
             "heading_size": "h1"
           }
         },
         "text_FAKJPN": {
           "type": "text",
           "settings": {
-            "text": "<p>The <strong>Caffeine & Creatures Pin Club</strong> is a monthly fantasy experience for those who find magic between pages and warmth in every cup. Each month unveils a new creature inspired by coffee, tea, or drinking chocolate — brought to life through an enamel pin, lore card, and story. A collector’s ritual for readers who dream of worlds just beyond the steam.</p>",
+            "text": "<p>Explorers across distant lands have begun documenting mysterious creatures drawn to the magic of caffeine.</p><p>Each monthly pin represents a new discovery — preserved as an artifact from the archive.</p><p>Over time, collectors assemble a growing bestiary of creatures from the Caffeine & Creatures world.</p>",
             "text_style": "body"
           }
         },
@@ -96,6 +144,55 @@
         "heading_npB7Vn",
         "text_FAKJPN",
         "button_6zKfpG"
+      ],
+      "custom_css": [],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Untitled_design_19.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_wcPeWL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LmNeQq": {
+          "type": "heading",
+          "settings": {
+            "heading": "What Members Receive",
+            "heading_size": "h1"
+          }
+        },
+        "text_bLJtBf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Designed for collectors and fans of whimsical fantasy, folklore, and cozy storytelling.</p><p>Every pin represents:</p><p>• A new creature<br/>• A new field discovery<br/>• A new entry in the archive</p><p>Missed creatures may never return once a release sells out.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_pmNQLR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LmNeQq",
+        "text_bLJtBf",
+        "button_pmNQLR"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -169,12 +266,58 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_WbVzKX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_D6BehB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_FAxexz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_TDDDki": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_D6BehB",
+        "text_FAxexz",
+        "button_TDDDki"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "image_banner_f9CYMY",
+    "image_with_text_UUHgbe",
     "image_with_text_BrCJRh",
-    "multicolumn_6eaVpU"
+    "image_with_text_wcPeWL",
+    "multicolumn_6eaVpU",
+    "rich_text_WbVzKX"
   ]
 }
