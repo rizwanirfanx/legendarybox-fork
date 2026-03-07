@@ -30,7 +30,7 @@
         "text_eDjMjB": {
           "type": "text",
           "settings": {
-            "text": "A monthly enamel pin series documenting strange beings discovered across the Caffeine & Creatures world.",
+            "text": "A monthly enamel pin and trading card series documenting strange beings discovered across the Caffeine & Creatures world.",
             "text_style": "body"
           }
         },
@@ -38,7 +38,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Subscribe Now",
-            "button_link_1": "shopify://collections",
+            "button_link_1": "shopify://products/caffeine-creatures-enamel-pin-subscription",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -53,9 +53,9 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Gemini_Generated_Image_uavghiuavghiuavg.png",
+        "image": "shopify://shop_images/Untitled_design_26.png",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -72,7 +72,7 @@
         "heading_HHzwyn": {
           "type": "heading",
           "settings": {
-            "heading": "What Members Receive",
+            "heading": "What Members Get",
             "heading_size": "h1"
           }
         },
@@ -127,7 +127,7 @@
         "text_FAKJPN": {
           "type": "text",
           "settings": {
-            "text": "<p>Explorers across distant lands have begun documenting mysterious creatures drawn to the magic of caffeine.</p><p>Each monthly pin represents a new discovery — preserved as an artifact from the archive.</p><p>Over time, collectors assemble a growing bestiary of creatures from the Caffeine & Creatures world.</p>",
+            "text": "<p>Over time, members assemble a growing bestiary of creatures from the Caffeine & Creatures world.</p>",
             "text_style": "body"
           }
         },
@@ -159,54 +159,6 @@
         "content_layout": "no-overlap",
         "section_color_scheme": "scheme-1",
         "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_wcPeWL": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_LmNeQq": {
-          "type": "heading",
-          "settings": {
-            "heading": "What Members Receive",
-            "heading_size": "h1"
-          }
-        },
-        "text_bLJtBf": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Designed for collectors and fans of whimsical fantasy, folklore, and cozy storytelling.</p><p>Every pin represents:</p><p>• A new creature<br/>• A new field discovery<br/>• A new entry in the archive</p><p>Missed creatures may never return once a release sells out.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_pmNQLR": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_LmNeQq",
-        "text_bLJtBf",
-        "button_pmNQLR"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/image_5.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -262,54 +214,60 @@
         "background_style": "primary",
         "button_label": "SUBSCRIBE NOW",
         "button_link": "#plan-selector",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "rich_text_WbVzKX": {
-      "type": "rich-text",
+    "image_banner_ctArYw": {
+      "type": "image-banner",
       "blocks": {
-        "heading_D6BehB": {
+        "heading_E38GWp": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "<strong>An Archive of Strange Creatures</strong>",
             "heading_size": "h1"
           }
         },
-        "text_FAxexz": {
+        "text_776MzF": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "Explorers across distant lands have begun documenting mysterious creatures drawn to the magic of caffeine. Each monthly pin represents a new discovery, preserved as an artifact from the archive.",
+            "text_style": "body"
           }
         },
-        "button_TDDDki": {
-          "type": "button",
+        "buttons_rKCw9X": {
+          "type": "buttons",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_D6BehB",
-        "text_FAxexz",
-        "button_TDDDki"
+        "heading_E38GWp",
+        "text_776MzF",
+        "buttons_rKCw9X"
       ],
-      "name": "t:sections.rich-text.presets.name",
+      "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "image": "shopify://shop_images/Untitled_design_25.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
@@ -318,8 +276,7 @@
     "image_banner_f9CYMY",
     "image_with_text_UUHgbe",
     "image_with_text_BrCJRh",
-    "image_with_text_wcPeWL",
     "multicolumn_6eaVpU",
-    "rich_text_WbVzKX"
+    "image_banner_ctArYw"
   ]
 }
