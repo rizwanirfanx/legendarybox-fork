@@ -120,7 +120,7 @@
         "heading_E38GWp": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>An Archive of Strange Creatures</strong>",
+            "heading": "<strong>The World of Caffeine & Creatures</strong>",
             "heading_size": "h1"
           }
         },
@@ -176,15 +176,15 @@
         "text_FAKJPN": {
           "type": "text",
           "settings": {
-            "text": "<p>Over time, members assemble a growing bestiary of creatures from the Caffeine & Creatures world.</p>",
+            "text": "<p>Each monthly release adds a new creature to your growing collection.</p><p>Over time, members assemble a growing bestiary of creatures from the Caffeine & Creatures world.</p>",
             "text_style": "body"
           }
         },
         "button_6zKfpG": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Start Now",
+            "button_link": "shopify://products/caffeine-creatures-enamel-pin-subscription",
             "button_style_secondary": false
           }
         }
