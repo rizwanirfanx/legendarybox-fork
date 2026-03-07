@@ -79,7 +79,7 @@
         "text_j36tqB": {
           "type": "text",
           "settings": {
-            "text": "<p>Every month you'll receive:</p><p>🐉 <strong>Creature Pin: </strong></p><p>A collectible enamel pin featuring a newly discovered creature.</p><p>🎴 <strong>Trading Card: </strong></p><p>Illustrated field journal card documenting the creature.</p><p>✍️ <strong>Archive Entry: </strong></p><p>Each release expands the growing archive of creatures.</p>",
+            "text": "<p>Every month you'll receive:</p><p>🐉 <strong>Creature Pin:  </strong>A collectible enamel pin featuring a newly discovered creature.</p><p>🎴 <strong>Trading Card: </strong>Illustrated field journal card documenting the creature.</p><p>✍️ <strong>Archive Entry:  </strong>Each release expands the growing archive of creatures.</p>",
             "text_style": "body"
           }
         },
@@ -100,7 +100,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Untitled_design_22.png",
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -241,10 +241,10 @@
         "buttons_rKCw9X": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Start Collecting",
+            "button_link_1": "shopify://products/caffeine-creatures-enamel-pin-subscription",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
