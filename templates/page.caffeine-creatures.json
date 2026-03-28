@@ -150,7 +150,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Untitled_design_25.png",
+        "image": "shopify://shop_images/Caffeine_and_Creatures_splash_page_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -203,6 +203,57 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_RMNcnA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_npMdHC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Shipping Schedule</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_kbyBXx": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Please note that this is a preorder with the first pin shipping during the first week of May. </strong></p><p>You'll be re-billed on the 15th of each month, following the month you first subscribe.</p><p>Skip or cancel anytime. No commitments.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_KkdTpf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Start Now",
+            "button_link": "shopify://products/caffeine-creatures-enamel-pin-subscription",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_npMdHC",
+        "text_kbyBXx",
+        "button_KkdTpf"
+      ],
+      "custom_css": [
+        "& {color: #6a4a33;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Untitled_design_42.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -278,6 +329,7 @@
     "image_with_text_UUHgbe",
     "image_banner_ctArYw",
     "image_with_text_BrCJRh",
+    "image_with_text_RMNcnA",
     "multicolumn_6eaVpU"
   ]
 }
