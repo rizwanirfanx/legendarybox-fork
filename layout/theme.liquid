@@ -1,15 +1,15 @@
-{%- comment %}<locksmith:060e>{% endcomment -%}
+{%- comment %}<locksmith:0549>{% endcomment -%}
   {%- include 'locksmith' -%}
-{%- comment %}</locksmith:060e>{% endcomment -%}
+{%- comment %}</locksmith:0549>{% endcomment -%}
 
 <!doctype html>
 <html class="js" lang="{{ request.locale.iso_code }}">
   <head>
+{{ locksmith_initializations }}
 <!-- Start of Shoplift scripts -->
 {% render 'shoplift' %}
 <!-- End of Shoplift scripts -->
 
-    {{ locksmith_initializations }}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -32,10 +32,10 @@
     </title>
 
     {% if page_description %}
-      {%- comment %}<locksmith:d56e>{% endcomment -%}
+      {%- comment %}<locksmith:122d>{% endcomment -%}
         {%- capture var %}{% render 'locksmith-variables', variable: 'transparent', hiding_scope: 'resource' %}{% endcapture %}{% if var == 'true' %}<meta name="description" content="{{ page_description | escape }}">{% endif -%}
         {%- comment %}original: <meta name="description" content="{{ page_description | escape }}">{%- endcomment %}
-      {%- comment %}</locksmith:d56e>{% endcomment -%}
+      {%- comment %}</locksmith:122d>{% endcomment -%}
     {% endif %}
 
     {% render 'meta-tags' %}
